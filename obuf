@@ -1,1 +1,2502 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _GHLYBRlrjlfn = a; end)); return(function(a,...)local o;local f;local d;local b;local c;local t;local e=24915;local n=0;local l={};while n<325 do n=n+1;while n<0x26d and e%0x35a8<0x1ad4 do n=n+1 e=(e*527)%46036 local r=n+e if(e%0x31de)>=0x18ef then e=(e-0x399)%0xb3 while n<0x256 and e%0x35a6<0x1ad3 do n=n+1 e=(e-573)%34536 local r=n+e if(e%0x4a7e)>=0x253f then e=(e-0x18a)%0x71f9 local e=89659 if not l[e]then l[e]=0x1 c="\4\8\116\111\110\117\109\98\101\114\80\116\79\68\73\118\75\82\0\6\115\116\114\105\110\103\4\99\104\97\114\83\103\107\101\66\67\73\110\0\6\115\116\114\105\110\103\3\115\117\98\71\69\95\120\105\84\113\85\0\6\115\116\114\105\110\103\4\98\121\116\101\109\98\99\73\115\89\69\122\0\5\116\97\98\108\101\6\99\111\110\99\97\116\89\121\82\76\111\87\105\101\0\5\116\97\98\108\101\6\105\110\115\101\114\116\97\101\105\88\105\70\103\105\5";end elseif e%2~=0 then e=(e-0x80)%0xba29 local e=88581 if not l[e]then l[e]=0x1 t=function(t)local e=0x01 local function l(n)e=e+n return t:sub(e-n,e-0x01)end while true do local n=l(0x01)if(n=="\5")then break end local e=f.byte(l(0x01))local e=l(e)if n=="\2"then e=o.PtODIvKR(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then d[e]=function(e,n)return a(8,nil,a,n,e)end elseif n=="\4"then e=d[e]elseif n=="\0"then e=d[e][l(f.byte(l(0x01)))];end local n=l(0x08)o[n]=e end end end else e=(e-0x49)%0x962b n=n+1 local e=78379 if not l[e]then l[e]=0x1 end end end elseif e%2~=0 then e=(e*0xc2)%0xc1ad while n<0xea and e%0x4650<0x2328 do n=n+1 e=(e*61)%36121 local o=n+e if(e%0x1630)<0xb18 then e=(e+0x101)%0x587b local e=40946 if not l[e]then l[e]=0x1 d=(not d)and _ENV or d;end elseif e%2~=0 then e=(e+0x21a)%0x679e local e=84041 if not l[e]then l[e]=0x1 end else e=(e-0x20a)%0x779e n=n+1 local e=80806 if not l[e]then l[e]=0x1 d=getfenv and getfenv();end end end else e=(e*0x22c)%0x48af n=n+1 while n<0x2ec and e%0x139e<0x9cf do n=n+1 e=(e-75)%32353 local d=n+e if(e%0x21ca)>0x10e5 then e=(e+0x298)%0x5520 local e=22630 if not l[e]then l[e]=0x1 b=tonumber;end elseif e%2~=0 then e=(e*0x2fa)%0xe2d local e=43354 if not l[e]then l[e]=0x1 o={};end else e=(e*0xe8)%0x255 n=n+1 local e=43338 if not l[e]then l[e]=0x1 f=string;end end end end end e=(e*519)%13853 end t(c);local n={};for e=0x0,0xff do local l=o.SgkeBCIn(e);n[e]=l;n[l]=e;end local function r(e)return n[e];end local f=(function(f,a)local c,l=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local t=f while true do n[0x03][o.GE_xiTqU(a,e,(function()e=c+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""l=0x000 break end end local d=#a while e<d+0x01 do n[0x02][l]=o.GE_xiTqU(a,e,(function()e=c+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 o.aeiXiFgi(n[0x01],(r((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return o.YyRLoWie(n[0x01])end);t(f(220,"TS2}LG^4baQCw:!R2^LwQLwa!G5CGCb4QGQ:!CRRSG^:S!LSaLR4S:SC}C4Cb^C}RwQQw:2S^}4CwGR2BG2S2:4G}^GCQ::^RCGC4!bGa^w2!X}a2a/Q2Rb2QCwwxCL:LCbQQS:}9LSw:!FGGGbHQSwS!LL}LS^GbG!V!:24}QRQSR4GaGC!R}2Q^2^2a2Cb:,RLw!R}L^^:aL!2AQSL}}4:Q:wS!GQ2wGSRGLQ4abwQzC}4GS4b2!G}QGwQRN22G!baaC!L:!tw2!(2244wQ2w}R!2RLLbGbwQR:aS4:^R:L!4^aQwS!G}2L^^}b:Q4:SRCLGR2Sb^aaGCL:wSvLP4:QbwRRLRS}b!QOR^abCQwRC_}2wLwbRC}!CxGC!!}}bGabS!b:w#bGSLG4}Q!w^a2C^SS2R^LCG:!:}2SLGL}bGL2^aCQ::>}2:GSa::6!Qh!2CGa4aadG!b}:^Rb2Lb2Q!wa:CRb}C}w^G}2G4QawwRL}P4Qa^aGw^1:}SL^m^2C4RQLw^2:2:GR^aaVCR:aS^:QRRG24ba!:GsULS}CaGQQC}!:Q!:G2^L!^wa}Cb!RLLLS4CQ4w2R^!wwQRyLS^wb:CiRQ2}}44Naaww!QSLw2!4LSG!b4CwS2SRGG^C^QCQCwa^CCSG}2GbC!:L!2S^}RGe^wQR^Qar!S0C2QG0QQC!:RSG2a}!^4bR^2bG:C}4}wbabEwQ:^RQ}b!!SS^bwL!b!R2wGCbS4SCQ4Qa:R2GLLQb2C!C^(S?S}b%^2abS!SRa2Q24^w4!QC:ra2CGy!Laa}CnC!RCRwS^L%S!L}a^C:!2}LL^b4a^:i!auC}CR2S^^QbwRj{!Sw^LbQ4Cwww2Q2w^SC}!bRQ4:Q:R}42a^:4RG24^wQ!:24GwQSwS!2Rw24SRx22^4Ca:!aSCSw^Lb!a4C,RiC2:b2QLw4LaCwQuS}}^}^RQ^CG:QQQ:,2SLL^QbR!G!G2e2:4bb:CawRQ2w^S:}!awQa!QS}2RG24Da2G24^waR2LR42a}Ca:wRazCLRW22^bSQLR}2}SwLwbCbRQR!SC2:^2RG}CbwG!CR^S^^Lb^a^^2b^:Q_2GGb:awQ!!SS^}42RS2}^bwQ:82rw2!^!Q>QSC:!4w2!^LSG!aawgRSR:LQ4^4CQ242a^!QSLLGbCQS:E:a2}LCLb22L^aQCRSL2}}C^aQ2Qwww!::2R^GS^wQ4:aR:2}^4bLQSQ:b2Q^RwSw4RQQQ}!aSLm^GG4r}2G^Qww!}S2^^S42wa:^!42C!20^Gw4RwSR!Sa2L^w4aa}wGaG"));t(f(10,"6kjUJ<aFbw(hd_?HHaHj<<JdJCj_jbkF((mP4FH<???hhhdJdh(J(JwkwFjbkHb3aw<_<?<JUkkFUUCHjjjkqJkkbHbw?(?jdHd(dadjwJbkb_aUaH<d<FHbHJ<FJ?JjjHj(kw(_%hH<H??U_?djhdd(whhhF_b<wFkdkaF<<Hab<j?<JjU{jFU}k?HU?a?F_<H<dw_bh_<b<ahUwh(GbHF_bja<a?<kJbJbUFk<zF)JjUkk?hHkHdFdF<h(hHhUh((h(J<hFjak<(J(aaUw<ak(_jdbUkkkrHk&?jH_dhhF_d(bw(dUJJUwaFaHb<a<Fk<_<hajJk_b_jUJj<kHka;(HFHj?k_?_F_jhwhJFHwwF_jLkhb:aU<(<(Jw?1J<UJjdkU!h w?L?JdUHCdkdh(wdjJbJL(<wJbdFUahawJ(Jd<<jdjJSdk(jU(bwHMGHb?<?-_dd(wawwbabHbabhF_kJ-da?<H<w<NJJUkjdkh?d?__w__?h?hhHhba;<<ha(?whwawjFbFwa?ak<k<hjJk_dbdAjUyhrbHF?hHjhH(ddjw_hFwhF((FjJk?F_aFFA<(?_JJJIUwjHjbkhk<???H_w_H__dHak"));TAjjnOiZsllFgzn=function(e)e((-o._gaE_OAu+(function()local l,n=o.oqKGcJSx,o.OCiraYAe;(function(e)e(e(e))end)(function(e)if l>o.srUBJDyE then return e end l=l+o.OCiraYAe n=(n+o.OmGbUcpd)%o.kEEAxawf if(n%o.GZnJVXLL)<=o.bfLGmyii then return e(e(e))else return e end return e end)return n;end)()))end;nzgFllsZiOnjjAT={o.nqvglAeS,o.lBOFYZie};local e=(o.HwDRowmp+(function()local t,d=o.oqKGcJSx,o.OCiraYAe;(function(e,n,l)l(e(e,n,n),e(e and e,l,e)and l(n,n,l and n),n(e,n and e,e))end)(function(e,n,l)if t>o.BZaOtJTR then return l end t=t+o.OCiraYAe d=(d-o.JWHeHGMg)%o.bRKQGMSy if(d%o.HTmtwxQt)<o._CHDccwm then return l else return e(e(e,e,e),l(n,e,l)and l(e,e,e and n),e(l and n,n,n))end return n(n(e,n,l and e),l(n,e and l,n)and n(e,n,l),l(l,e,e)and n(e and n,e,n))end,function(l,e,n)if t>o.xHPuEOfZ then return e end t=t+o.OCiraYAe d=(d*o.DqvGqqKi)%o.apff_ieX if(d%o.rzq_XwTY)>=o.LrjERuuf then return e(e(l,n,e),e(n,l,n)and n(l,e,n),n(e,l,n))else return l end return e end,function(n,l,e)if t>o.uQ_EHSIb then return e end t=t+o.OCiraYAe d=(d*o.IPmCyjOe)%o.GxQgofvH if(d%o.Z_Odixrx)>o.HzcugBnL then d=(d*o.vhRbgTLk)%o.jZWiYJOS return e else return l(n(l,n,n),e(l,e,n),e(n,e,e))end return e(e(l,l,n),e(n,e,n),e(n,n,e))end)return d;end)())local de=(getfenv)or(function()return _ENV end);local h=o.VbuVXJbu or o.LZCzUiQt;local t=o.kLuHnVVp;local y=o.OCiraYAe;local c=o.llOhsuAf;local d=o.pBVnBiEX;local function oe(m,...)local u=f(e,"L b791u#o)cQCXm5751b#Qc9XW5C 59o# 2X7#1m#mcCCm)bQ)mbfQ791Xouc5 oG97)17#Cc1bb7oocQ7mBmcbX9#o)cQX9X#b 1X#c7#1mo#Q_X)FbJQC7QXc)5#5ob 9c# oCC)57bu5CuQ)#C7m1C)9)1C)#uXmu  7#u1#5cumY5cbb4#o#cbXu57X9bc#1)mCuX9T57u C#Qo XmSobX1u#5nQ7)1Q)19m#1)mC#5v )9buQ)9CI5u>57ou ooQX5b.o e15ooQoCoilw51##Cc1c1m  X1XuC)1Qmm15)99uX)1c7Xmh1bc9#) QoXoxubo1X1Qc1C)5b C9m9ccuC55u 975u7oCQ11buo)bC1m#cmX#5Xbu95mQ ubC5uba91um)#79ubobc!u#) QuX5Po)7X75#  X#5mb#1U#)cbCQm91C9)#u)oC mc#)cQX#57 o97# 71cQo9cXXu5XbCu occ5XQCQm) b#m)uX1Q1 #9b#u)7C)X5 Q9b1X)7cXmb0c7)17o1Q9)#51bc1 7C)mCmm5 b9#uc15o95 ec9zbu1bo9ccCcb51XomccXm5omQ1##7)XX7Qo c9Su1) C)cm 17bu7) #QX)_77u1bomcoXbTub 9c#7)cC*X 5Qbo1m#?c)mC Q7Cu#ocQQXXambC11#mc1Xo(9 59Qo7cXX959bb99uX))QCm13m71uC)#Q#m1 97(1Q#5coX 5obu9)#m)5Cc5) )9buQ)bCX5  m9ou5o5QXX5%o7u1#oqc)XEX5791XobobC)a 1m97uC)1Xi7u S7)ubomQ9XXRu71uQo ccX7bQb195##cZC)5u7C99uX)ummmo b7cu7)cQ1Xmw#761)obcQX999bu1l#oc Cc57 C91#o)#C*m) b7Qu1oXXu5mNo7 1co7cCm75m7))m#)c7CQ5Q X9uu5ccX1mc 17CuoomQ#m?;5#m1Qo#cXX#55b)1 #Qc7CCbc m9##!)cCbmQ 97Xoro5Qcm NC771Xo1C,Xm(ybQ1bo#c9CX5u7 1X# )XC7mX 17mu#QnQXmbFm79uRouQcXo 7b517owc1Xo5#bY9))bQ C95  u97uocFQc51 X71u7o#Q X)ybbQ#9)CcuX95obu9c#))CX#Pc #9uu))7QQm9ZX1u#CooQ#Xct)bCub#mc#X55)b)9Q#9)XCum5bc95uc)QQCmCqm7#u>)QQ#XQdXbX1c#5coX ECbC9C#5)mX15w )9bu5cbQXmmM51ou oQQ7XC9)bmu7o>cmXb5Qb99XcX)5X15 b197uC)1Qmi  ?91uboXQ9X5aub5u-o Q X7x#b11c##c<m15bbb99#))uCcmo 1o{u7)9Q15oU#7 1)obmcX9<1bu1##oc Cc5)uo91#u)#Cem) 77QucoXQu 9Yo7 1co1cCX15mb#o1#)cbCQ5o X9uu5)o5umc 77CuXomQ#mrD)u#1Qo9cXX)55bo1 #cXoCC51 m9m#Z))CbmQ9)7Xuuo5Q)m -c771CoucmmlBW7 1b#Qc9CX5o 51b# )cC7mC 17moK);CbmbkX7915ouc5m ? bc17o1c1Cm5#b29X#b)QC9m5 u75uo) Ccm7hC711mo#QrX)Iu7)19#Xcu b5obb9co1CuC1mm #9ou))bQQ{99w7u15ooQ Xc  bCu##5c#X,5)7#9Q#9)XXon# o9 uc)QQCm1am1##*o)QbXQ39bX1o#5QcXo5cb79Coo)mC#5l )1muQ)9QXm#P57ou )CC#XCh1bmuPodc)Xb2X9m9X#u)5X)5  c97)bQcQmm# Z#9uboCQ9mbPu77#)o ccX77#b195##c9mc5b Q99c))uCVmo  ucu7oCQ1X5K#7Y1))9X1X95Xbuu #oc Cc?1# 91u5)#X9m) b7Qo9)5Qumv4o7b1c))cCm# bb#17#)QbCQ59 X9uoC)oCbmc u7Cu1omQ#5#P)7b1Qo9cXXo55bo17#cc7CC5u m9o#j))5bmQ 97Xu#o5Qom _C771Co1Q1X#Z0b)11#Cc9CX5u X9Q#u)cC7mCo))5C)5C mm9DQ791Xouc5Xo5 u)11#Cc1Cm5#bM9)mbXQC#mX u75uo)9C_m7YC71X 5Qbb9b#M)b1u#XcuC55ob 9c#7XC5omm #96u)c#QQm1!X7u15ooQ Xc9#bC1##mc#X*5)bb9Qco)XC#m5 c9 uC)7mb3c/m7ouO)1QbXCH9b51uo7C)X 5cb71o#1)5C#5/bm9buC)9QmmuG57ou CmQ7Xmw1bm1#onc)Xo9#b91r#u)5Co5b c91uC)157m# A7)uboQQ9XX_u#C1oo ccX15Cb19m##c1C)57 Q9#uX)#Q5mC7b7cu7oCmuXmvo7n1))#cQX15Xbu95#oc Cc7# C9#um)#C*m) b7Q)ooXQ#X5Oc7 1Co7Xb5c5mbo1GcccbCC59b79u#7Q)C mc 7uXu1o5Q#mlb#7b1Co9cXXu55bo15c c7C551959## ))C7mQ o1muuo5Qo bGc791Co1C7X#J b)11#Qc9CX5u1Q9o#7)cC7mC 17m#))1Q)m1+Q7#1Xouc5mc  bc1##CcoCm5#bR9)#9)QC1mX c75uc) mWm9*C7u1mc7QhXc!bbC19o C#C55ob uu#7)XC15b7o9su))bmCm9dm7u# o5Q XQz77 11#mc#mbO6bb9X#9c9Cum5 o9 oo)7Q5m1Hm7#uTo)C9mbH97 1uobcoX 5cb#9m#1ctC#bS )97uQ)9_ mu 17oubocQ7XCt19Q1#o#c)Xu5Qb99X#uQQCo5) c9#uC)1Qmm# m7)uQoQQ#XX,ub51o)1ccXX5Cb19m##cVC)tC Q95uX)QQ5mo  7cogoCC XmNC7n1)obcQX#5Xb595o9c CC57 C9oum)5CS5  b99u9oX;uX5  7 15o7cCX15m7C1fo cbX759bu9uo5cQC 5b 799u1)bQ#mZ m7bubo9Q9Xu?#bo1 )bc7CX51b99###))Cu7  975uuQlQombrc77u9o1c5X#jbb)1b#Qc9X15u 59o#7)cC7mC 1umu#)eQ)m7JQ791Xo#c5Xo: bc17#Cc1X95#bY9)#bX C9m5 u75uo) Qcm7Z571u o#Q X)>bbQ19o7cuX75obb9c#7)CC1j  #97u))9QQmu(X7u#CooQ7XcO7bC1o#mc#m15)bb9Q#1)XCum5 o9 uc)7Qmmufm7#u+o)Q9XQ*9bX1ucXcoX 5cb79C#1)mC#b6 )9buQ)1QXmu657ou ocQ7XXf1");local n=o.oqKGcJSx;o.SCiOluby(function()o.PuMCrHDw()n=n+o.OCiraYAe end)local function e(e,l)if l then return n end;n=e+n;end local l,n,r=a(o.oqKGcJSx,a,e,u,o.mbcIsYEz);local function f()local n,l=o.mbcIsYEz(u,e(o.OCiraYAe,o.kLuHnVVp),e(o.qerKlZcd,o.MslVoLBH)+o.pBVnBiEX);e(o.pBVnBiEX);return(l*o.dRoZpeco)+n;end;local s=true;local s=o.oqKGcJSx local function p()local e=n();local n=n();local t=o.OCiraYAe;local d=(l(n,o.OCiraYAe,o.pjTxzGtF)*(o.pBVnBiEX^o._SbCwEeS))+e;local e=l(n,o.GXyurhoC,o.YgDhnSHd);local n=((-o.OCiraYAe)^l(n,o._SbCwEeS));if(e==o.oqKGcJSx)then if(d==s)then return n*o.oqKGcJSx;else e=o.OCiraYAe;t=o.oqKGcJSx;end;elseif(e==o.BUcoWjUV)then return(d==o.oqKGcJSx)and(n*(o.OCiraYAe/o.oqKGcJSx))or(n*(o.oqKGcJSx/o.oqKGcJSx));end;return o.OLWOyWp_(n,e-o.eAXAhYaS)*(t+(d/(o.pBVnBiEX^o.lUrwonhf)));end;local k=n;local function _(n)local l;if(not n)then n=k();if(n==o.oqKGcJSx)then return'';end;end;l=o.GE_xiTqU(u,e(o.OCiraYAe,o.kLuHnVVp),e(o.qerKlZcd,o.MslVoLBH)+n-o.OCiraYAe);e(n)local e=""for n=(o.OCiraYAe+s),#l do e=e..o.GE_xiTqU(l,n,n)end return e;end;local k=#o.nqvglAeS(b('\49.\48'))~=o.OCiraYAe local e=n;local function oe(...)return{...},o.KBbGkYBy('#',...)end local function le()local e={};local b={};local s={};local h={s,b,nil,e};local e=n()local u={}for d=o.OCiraYAe,e do local l=r();local n;if(l==o.OCiraYAe)then n=(r()~=#{});elseif(l==o.pBVnBiEX)then local e=p();if k and o.VZrMwCUq(o.nqvglAeS(e),'.(\48+)$')then e=o.osVaUemi(e);end n=e;elseif(l==o.kLuHnVVp)then n=_();end;u[d]=n;end;for h=o.OCiraYAe,n()do local e=r();if(l(e,o.OCiraYAe,o.OCiraYAe)==o.oqKGcJSx)then local a=l(e,o.pBVnBiEX,o.kLuHnVVp);local r=l(e,o.llOhsuAf,o.MslVoLBH);local e={f(),f(),nil,nil};if(a==o.oqKGcJSx)then e[t]=f();e[c]=f();elseif(a==#{o.OCiraYAe})then e[t]=n();elseif(a==m[o.pBVnBiEX])then e[t]=n()-(o.pBVnBiEX^o.onkmleSs)elseif(a==m[o.kLuHnVVp])then e[t]=n()-(o.pBVnBiEX^o.onkmleSs)e[c]=f();end;if(l(r,o.OCiraYAe,o.OCiraYAe)==o.OCiraYAe)then e[d]=u[e[d]]end if(l(r,o.pBVnBiEX,o.pBVnBiEX)==o.OCiraYAe)then e[t]=u[e[t]]end if(l(r,o.kLuHnVVp,o.kLuHnVVp)==o.OCiraYAe)then e[c]=u[e[c]]end s[h]=e;end end;for e=o.OCiraYAe,n()do b[e-(#{o.OCiraYAe})]=le();end;h[o.kLuHnVVp]=r();return h;end;local function ne(l,e,n)local d=e;local d=n;return b(o.VZrMwCUq(o.VZrMwCUq(({o.SCiOluby(l)})[o.pBVnBiEX],e),n))end local function j(z,s,u)local function ne(...)local f,g,_,ne,p,l,r,m,k,ee,b,n;local e=o.oqKGcJSx;while-o.OCiraYAe<e do if o.pBVnBiEX>=e then if e<=o.oqKGcJSx then f=a(o.MslVoLBH,o.lUrwonhf,o.OCiraYAe,o.coDPkKGU,z);g=a(o.MslVoLBH,o.xacJFpnZ,o.pBVnBiEX,o.eydRaroC,z);else if e>o.oqKGcJSx then repeat if e>o.OCiraYAe then l=-o.bHFbpMEK;r=-o.OCiraYAe;break;end;_=a(o.MslVoLBH,o.ILYAjrSV,o.kLuHnVVp,o.EgYdIosL,z);p=oe ne=o.oqKGcJSx;until true;else l=-o.bHFbpMEK;r=-o.OCiraYAe;end end else if e<o.qerKlZcd then if e>o.oqKGcJSx then for n=o.dOCMbHDA,o.GUUWwpiQ do if o.kLuHnVVp~=e then ee=o.KBbGkYBy('#',...)-o.OCiraYAe;b={};break;end;m={};k={...};break;end;else m={};k={...};end else if e~=o.llOhsuAf then repeat if o.MslVoLBH>e then n=a(o.HwDRowmp);break;end;e=-o.pBVnBiEX;until true;else n=a(o.HwDRowmp);end end end e=e+o.OCiraYAe;end;for e=o.oqKGcJSx,ee do if(e>=_)then m[e-_]=k[e+o.OCiraYAe];else n[e]=k[e+o.OCiraYAe];end;end;local k=ee-_+o.OCiraYAe local e;local a;local function _(...)while true do end end while true do if l<-o.ovKmtBmd then l=l+o.qBYFybOo end e=f[l];a=e[y];if o.QjaHlUKY>a then if a>20 then if a>=32 then if a<=36 then if a<34 then if 28<=a then for o=10,93 do if 32~=a then l=e[t];break;end;do return n[e[d]]end break;end;else do return n[e[d]]end end else if 35<=a then if 35<a then local u,h,b,o,f,r,a;local l=0;while l>-1 do if 3<=l then if 4>=l then if l==3 then r=o[u];else a=n[f];for e=1+f,o[b]do a=a..n[e];end;end else if l<6 then n[r]=a;else l=-2;end end else if l>=1 then if 2==l then f=o[h];else o=e;end else u=d;h=t;b=c;end end l=l+1 end else n[e[d]]=#n[e[t]];end else if n[e[d]]then l=l+1;else l=e[t];end;end end else if a>39 then if 41>a then local u,r,h,o,f,b,a;local l=0;while l>-1 do if 2>=l then if l<=0 then u=d;r=t;h=c;else if l~=-2 then for n=34,84 do if l<2 then o=e;break;end;f=o[r];break;end;else o=e;end end else if 5<=l then if l==6 then l=-2;else n[b]=a;end else if 4>l then b=o[u];else a=n[f];for e=1+f,o[h]do a=a..n[e];end;end end end l=l+1 end else if 41~=a then n[e[d]]=u[e[t]];else u[e[t]]=n[e[d]];end end else if a>37 then if a~=39 then for e=e[d],e[t]do n[e]=nil;end;else if(e[d]<n[e[c]])then l=l+1;else l=e[t];end;end else if(n[e[d]]==e[c])then l=l+1;else l=e[t];end;end end end else if a>=26 then if a>=29 then if 29>=a then local a;for o=0,6 do if 3<=o then if o>=5 then if o~=3 then repeat if o<6 then n[e[d]]=n[e[t]];l=l+1;e=f[l];break;end;a=e[d]n[a]=n[a](h(n,a+1,e[t]))until true;else a=e[d]n[a]=n[a](h(n,a+1,e[t]))end else if 3==o then n[e[d]]=n[e[t]];l=l+1;e=f[l];else n[e[d]]=n[e[t]];l=l+1;e=f[l];end end else if o<1 then n[e[d]]=s[e[t]];l=l+1;e=f[l];else if-3<o then for a=46,98 do if o>1 then n[e[d]]=s[e[t]];l=l+1;e=f[l];break;end;n[e[d]]=s[e[t]];l=l+1;e=f[l];break;end;else n[e[d]]=s[e[t]];l=l+1;e=f[l];end end end end else if a~=29 then for l=23,97 do if 31>a then n[e[d]]=#n[e[t]];break;end;n[e[d]]=n[e[t]][e[c]];break;end;else n[e[d]]=n[e[t]][e[c]];end end else if a>26 then if 23<a then repeat if 28~=a then local t=e[d];local o={};for e=1,#b do local e=b[e];for l=0,#e do local e=e[l];local d=e[1];local l=e[2];if d==n and l>=t then o[l]=d[l];e[1]=o;end;end;end;break;end;local o,r,h;for a=0,6 do if a>2 then if a<5 then if 3~=a then n(e[d],e[t]);l=l+1;e=f[l];else n(e[d],e[t]);l=l+1;e=f[l];end else if a~=6 then n(e[d],e[t]);l=l+1;e=f[l];else o=e[d];r=n[o]h=n[o+2];if(h>0)then if(r>n[o+1])then l=e[t];else n[o+3]=r;end elseif(r<n[o+1])then l=e[t];else n[o+3]=r;end end end else if a>=1 then if a<2 then n[e[d]]=n[e[t]][e[c]];l=l+1;e=f[l];else n[e[d]]={};l=l+1;e=f[l];end else n[e[d]]=u[e[t]];l=l+1;e=f[l];end end end until true;else local t=e[d];local d={};for e=1,#b do local e=b[e];for l=0,#e do local l=e[l];local o=l[1];local e=l[2];if o==n and e>=t then d[e]=o[e];l[1]=d;end;end;end;end else local a;for o=0,6 do if 2<o then if o<=4 then if 1~=o then repeat if 3~=o then n[e[d]]=u[e[t]];l=l+1;e=f[l];break;end;n[e[d]]=n[e[t]][e[c]];l=l+1;e=f[l];until true;else n[e[d]]=n[e[t]][e[c]];l=l+1;e=f[l];end else if o>=4 then repeat if 5~=o then n[e[d]]=u[e[t]];break;end;n[e[d]]=n[e[t]][e[c]];l=l+1;e=f[l];until true;else n[e[d]]=n[e[t]][e[c]];l=l+1;e=f[l];end end else if 0>=o then a=e[d]n[a](n[a+1])l=l+1;e=f[l];else if-3<=o then repeat if o~=2 then n[e[d]]=u[e[t]];l=l+1;e=f[l];break;end;n[e[d]]=u[e[t]];l=l+1;e=f[l];until true;else n[e[d]]=u[e[t]];l=l+1;e=f[l];end end end end end end else if a<=22 then if 17<=a then for l=45,85 do if 21~=a then local t=e[d];local d={};for e=1,#b do local e=b[e];for l=0,#e do local l=e[l];local o=l[1];local e=l[2];if o==n and e>=t then d[e]=o[e];l[1]=d;end;end;end;break;end;n[e[d]]=s[e[t]];break;end;else local t=e[d];local o={};for e=1,#b do local e=b[e];for l=0,#e do local l=e[l];local d=l[1];local e=l[2];if d==n and e>=t then o[e]=d[e];l[1]=o;end;end;end;end else if a<24 then local l=e[d]n[l]=n[l](h(n,l+1,e[t]))else if 25==a then if n[e[d]]then l=l+1;else l=e[t];end;else local l=e[d]n[l](h(n,l+1,e[t]))end end end end end else if 9>=a then if 5<=a then if 7>a then if a>=1 then repeat if a>5 then if(n[e[d]]~=e[c])then l=l+1;else l=e[t];end;break;end;local l=e[d]n[l](h(n,l+1,e[t]))until true;else if(n[e[d]]~=e[c])then l=l+1;else l=e[t];end;end else if a<=7 then local o,r,a,f,c;local l=0;while l>-1 do if l>=3 then if l>=5 then if l>4 then repeat if l~=6 then n(c,f);break;end;l=-2;until true;else l=-2;end else if 2<l then repeat if l~=3 then c=o[r];break;end;f=o[a];until true;else f=o[a];end end else if 0<l then if l<2 then r=d;else a=t;end else o=e;end end l=l+1 end else if 6<=a then repeat if 9~=a then do return n[e[d]]end break;end;local h=g[e[t]];local r;local a={};r=o.MIPyqUez({},{__index=function(n,e)local e=a[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=a[e]e[1][e[2]]=n;end;});for o=1,e[c]do l=l+1;local e=f[l];if e[y]==53 then a[o-1]={n,e[t]};else a[o-1]={s,e[t]};end;b[#b+1]=a;end;n[e[d]]=j(h,r,u);until true;else do return n[e[d]]end end end end else if a>=2 then if 3>a then local o=e[d];local d=n[o]local a=n[o+2];if(a>0)then if(d>n[o+1])then l=e[t];else n[o+3]=d;end elseif(d<n[o+1])then l=e[t];else n[o+3]=d;end else if 0<=a then for l=45,74 do if 3~=a then local l=e[d];local o=n[e[t]];n[l+1]=o;n[l]=o[e[c]];break;end;n[e[d]]=n[e[t]][n[e[c]]];break;end;else local l=e[d];local o=n[e[t]];n[l+1]=o;n[l]=o[e[c]];end end else if a>0 then local o,h,u,a,r,c;n[e[d]]=n[e[t]];l=l+1;e=f[l];n[e[d]]=n[e[t]];l=l+1;e=f[l];o=e[d]n[o]=n[o](n[o+1])l=l+1;e=f[l];n[e[d]]=n[e[t]];l=l+1;e=f[l];do return n[e[d]]end l=l+1;e=f[l];o=e[d];h={};for e=1,#b do u=b[e];for e=0,#u do a=u[e];r=a[1];c=a[2];if r==n and c>=o then h[c]=r[c];a[1]=h;end;end;end;l=l+1;e=f[l];l=e[t];else n[e[d]]=(e[t]~=0);end end end else if 15<=a then if 18>a then if a>15 then if 14<=a then repeat if a~=16 then u[e[t]]=n[e[d]];break;end;if(e[d]<n[e[c]])then l=l+1;else l=e[t];end;until true;else if(e[d]<n[e[c]])then l=l+1;else l=e[t];end;end else local l=e[d];local o=n[e[t]];n[l+1]=o;n[l]=o[e[c]];end else if 19<=a then if 19==a then local a,r,c,o,f;local l=0;while l>-1 do if l>=3 then if l<5 then if l>=1 then repeat if 4~=l then o=a[c];break;end;f=a[r];until true;else o=a[c];end else if l>=3 then for e=37,73 do if l~=5 then l=-2;break;end;n(f,o);break;end;else n(f,o);end end else if 0<l then if l==2 then c=t;else r=d;end else a=e;end end l=l+1 end else n[e[d]][n[e[t]]]=n[e[c]];end else n[e[d]]=u[e[t]];end end else if 11>=a then if 9~=a then repeat if 10<a then n[e[d]]=(e[t]~=0);break;end;n[e[d]]=n[e[t]][e[c]];until true;else n[e[d]]=(e[t]~=0);end else if a>12 then if 12~=a then for l=22,55 do if 14>a then n[e[d]]=n[e[t]]%e[c];break;end;n[e[d]]={};break;end;else n[e[d]]=n[e[t]]%e[c];end else s[e[t]]=n[e[d]];end end end end end else if 63<a then if 74>=a then if a>68 then if 72<=a then if a>=73 then if a~=72 then for o=45,95 do if a~=74 then local e=e[d]n[e]=n[e](h(n,e+1,r))break;end;local o=e[d];local a=n[o+2];local d=n[o]+a;n[o]=d;if(a>0)then if(d<=n[o+1])then l=e[t];n[o+3]=d;end elseif(d>=n[o+1])then l=e[t];n[o+3]=d;end break;end;else local e=e[d]n[e]=n[e](h(n,e+1,r))end else if(n[e[d]]~=e[c])then l=l+1;else l=e[t];end;end else if a>69 then if a>=66 then repeat if 70~=a then local t,a,c;for u=0,1 do if u>-4 then repeat if u<1 then t=e[d];r=t+k-1;for e=t,r do a=m[e-t];n[e]=a;end;l=l+1;e=f[l];break;end;t=e[d];c=n[t];for e=t+1,r do o.aeiXiFgi(c,n[e])end;until true;else t=e[d];r=t+k-1;for e=t,r do a=m[e-t];n[e]=a;end;l=l+1;e=f[l];end end break;end;local o=e[d];local a=n[o+2];local d=n[o]+a;n[o]=d;if(a>0)then if(d<=n[o+1])then l=e[t];n[o+3]=d;end elseif(d>=n[o+1])then l=e[t];n[o+3]=d;end until true;else local o=e[d];local a=n[o+2];local d=n[o]+a;n[o]=d;if(a>0)then if(d<=n[o+1])then l=e[t];n[o+3]=d;end elseif(d>=n[o+1])then l=e[t];n[o+3]=d;end end else n[e[d]][n[e[t]]]=n[e[c]];end end else if 66<=a then if 67<=a then if a>=64 then repeat if 68~=a then n[e[d]]=n[e[t]]+n[e[c]];break;end;local o,u,r,a,c,f;local l=0;while l>-1 do if l<4 then if l<2 then if l>=-1 then repeat if 0~=l then u=d;break;end;o=e;until true;else o=e;end else if l~=0 then for e=22,60 do if l~=3 then r=t;break;end;a=n;break;end;else a=n;end end else if l>5 then if l>=4 then repeat if 7~=l then n[f]=c;break;end;l=-2;until true;else l=-2;end else if l~=4 then f=o[u];else c=a[o[r]];end end end l=l+1 end until true;else local o,f,r,a,u,c;local l=0;while l>-1 do if l<4 then if l<2 then if l>=-1 then repeat if 0~=l then f=d;break;end;o=e;until true;else o=e;end else if l~=0 then for e=22,60 do if l~=3 then r=t;break;end;a=n;break;end;else a=n;end end else if l>5 then if l>=4 then repeat if 7~=l then n[c]=u;break;end;l=-2;until true;else l=-2;end else if l~=4 then c=o[f];else u=a[o[r]];end end end l=l+1 end end else n[e[d]]=n[e[t]][n[e[c]]];end else if a~=61 then for l=16,82 do if 64~=a then local e=e[d];local l=n[e];for e=e+1,r do o.aeiXiFgi(l,n[e])end;break;end;n[e[d]]();break;end;else n[e[d]]();end end end else if 80>a then if 76>=a then if 76>a then local l=e[d]local o,e=p(n[l](h(n,l+1,e[t])))r=e+l-1 local e=0;for l=l,r do e=e+1;n[l]=o[e];end;else local h=g[e[t]];local r;local a={};r=o.MIPyqUez({},{__index=function(n,e)local e=a[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=a[e]e[1][e[2]]=n;end;});for o=1,e[c]do l=l+1;local e=f[l];if e[y]==53 then a[o-1]={n,e[t]};else a[o-1]={s,e[t]};end;b[#b+1]=a;end;n[e[d]]=j(h,r,u);end else if 78<=a then if a~=77 then for o=22,76 do if a~=78 then for o=0,1 do if-1~=o then for a=32,56 do if 1>o then n[e[d]]=u[e[t]];l=l+1;e=f[l];break;end;if n[e[d]]then l=l+1;else l=e[t];end;break;end;else if n[e[d]]then l=l+1;else l=e[t];end;end end break;end;for o=0,1 do if-3<=o then for a=19,74 do if o~=0 then n[e[d]]=u[e[t]];break;end;n(e[d],e[t]);l=l+1;e=f[l];break;end;else n(e[d],e[t]);l=l+1;e=f[l];end end break;end;else for o=0,1 do if-3<=o then for a=19,74 do if o~=0 then n[e[d]]=u[e[t]];break;end;n(e[d],e[t]);l=l+1;e=f[l];break;end;else n(e[d],e[t]);l=l+1;e=f[l];end end end else n[e[d]]=s[e[t]];end end else if a>82 then if a>83 then if 82<=a then for o=17,59 do if 84~=a then local o,b,s,m,a;n[e[d]]=u[e[t]];l=l+1;e=f[l];o=e[d];b=n[e[t]];n[o+1]=b;n[o]=b[e[c]];l=l+1;e=f[l];n(e[d],e[t]);l=l+1;e=f[l];o=e[d]s,m=p(n[o](h(n,o+1,e[t])))r=m+o-1 a=0;for e=o,r do a=a+1;n[e]=s[a];end;l=l+1;e=f[l];o=e[d]n[o]=n[o](h(n,o+1,r))l=l+1;e=f[l];n[e[d]]();break;end;local l=e[d]local o,e=p(n[l](h(n,l+1,e[t])))r=e+l-1 local e=0;for l=l,r do e=e+1;n[l]=o[e];end;break;end;else local o,b,s,m,a;n[e[d]]=u[e[t]];l=l+1;e=f[l];o=e[d];b=n[e[t]];n[o+1]=b;n[o]=b[e[c]];l=l+1;e=f[l];n(e[d],e[t]);l=l+1;e=f[l];o=e[d]s,m=p(n[o](h(n,o+1,e[t])))r=m+o-1 a=0;for e=o,r do a=a+1;n[e]=s[a];end;l=l+1;e=f[l];o=e[d]n[o]=n[o](h(n,o+1,r))l=l+1;e=f[l];n[e[d]]();end else local o=e[d];local d=n[o]local a=n[o+2];if(a>0)then if(d>n[o+1])then l=e[t];else n[o+3]=d;end elseif(d<n[o+1])then l=e[t];else n[o+3]=d;end end else if a<81 then local k,h,b,u,r,m,a,o;for o=0,4 do if o<=1 then if 0<o then n[e[d]]=n[e[t]]+n[e[c]];l=l+1;e=f[l];else n[e[d]]=s[e[t]];l=l+1;e=f[l];end else if 2<o then if o~=4 then n[e[d]]=n[e[t]][n[e[c]]];l=l+1;e=f[l];else o=0;while o>-1 do if o>2 then if o>4 then if 5~=o then o=-2;else n[m]=a;end else if 1<o then repeat if 4>o then m=u[k];break;end;a=n[r];for e=1+r,u[b]do a=a..n[e];end;until true;else a=n[r];for e=1+r,u[b]do a=a..n[e];end;end end else if o<=0 then k=d;h=t;b=c;else if-1~=o then for n=32,64 do if 1~=o then r=u[h];break;end;u=e;break;end;else r=u[h];end end end o=o+1 end end else n[e[d]]=n[e[t]]%e[c];l=l+1;e=f[l];end end end else if a>80 then repeat if a>81 then n[e[d]]=n[e[t]]%e[c];break;end;n[e[d]]=n[e[t]]+n[e[c]];until true;else n[e[d]]=n[e[t]]%e[c];end end end end end else if 53<=a then if a>57 then if 60<a then if 62>a then local e=e[d]n[e]=n[e](h(n,e+1,r))else if a==62 then n[e[d]]={};else for e=e[d],e[t]do n[e]=nil;end;end end else if 59<=a then if a>58 then repeat if 59~=a then local a;for o=0,4 do if o>1 then if o>=3 then if 4~=o then a=e[d]n[a]=n[a](h(n,a+1,e[t]))l=l+1;e=f[l];else if(n[e[d]]~=e[c])then l=l+1;else l=e[t];end;end else n(e[d],e[t]);l=l+1;e=f[l];end else if-2~=o then repeat if o>0 then n(e[d],e[t]);l=l+1;e=f[l];break;end;n[e[d]]=n[e[t]];l=l+1;e=f[l];until true;else n(e[d],e[t]);l=l+1;e=f[l];end end end break;end;l=e[t];until true;else local a;for o=0,4 do if o>1 then if o>=3 then if 4~=o then a=e[d]n[a]=n[a](h(n,a+1,e[t]))l=l+1;e=f[l];else if(n[e[d]]~=e[c])then l=l+1;else l=e[t];end;end else n(e[d],e[t]);l=l+1;e=f[l];end else if-2~=o then repeat if o>0 then n(e[d],e[t]);l=l+1;e=f[l];break;end;n[e[d]]=n[e[t]];l=l+1;e=f[l];until true;else n(e[d],e[t]);l=l+1;e=f[l];end end end end else if(n[e[d]]==e[c])then l=l+1;else l=e[t];end;end end else if 55<=a then if 56<=a then if 55<a then for l=22,98 do if 57~=a then local e=e[d]n[e](n[e+1])break;end;local e=e[d];r=e+k-1;for l=e,r do local e=m[l-e];n[l]=e;end;break;end;else local e=e[d];r=e+k-1;for l=e,r do local e=m[l-e];n[l]=e;end;end else local o;for a=0,3 do if a<2 then if-2<=a then for c=33,67 do if 1~=a then n[e[d]]=n[e[t]];l=l+1;e=f[l];break;end;o=e[d]n[o]=n[o](n[o+1])l=l+1;e=f[l];break;end;else o=e[d]n[o]=n[o](n[o+1])l=l+1;e=f[l];end else if a>2 then n[e[d]][n[e[t]]]=n[e[c]];else n[e[d]][n[e[t]]]=n[e[c]];l=l+1;e=f[l];end end end end else if 49<=a then for o=19,54 do if 54~=a then local a,o,u,c,r,f;local l=0;while l>-1 do if 3>=l then if 1<l then if-2<=l then repeat if l<3 then u=t;break;end;c=n;until true;else c=n;end else if l~=-3 then for n=26,60 do if l~=0 then o=d;break;end;a=e;break;end;else o=d;end end else if l<6 then if l>2 then for e=42,75 do if l~=4 then f=a[o];break;end;r=c[a[u]];break;end;else f=a[o];end else if l>=2 then repeat if 6<l then l=-2;break;end;n[f]=r;until true;else l=-2;end end end l=l+1 end break;end;local a,r,h,k,m,b,o,u;n[e[d]]=s[e[t]];l=l+1;e=f[l];n[e[d]]=s[e[t]];l=l+1;e=f[l];o=0;while o>-1 do if 4>o then if 2>o then if-1<o then for n=33,55 do if 1>o then a=e;break;end;r=d;break;end;else r=d;end else if-1~=o then for e=19,85 do if 2~=o then k=n;break;end;h=t;break;end;else h=t;end end else if o>5 then if o==6 then n[b]=m;else o=-2;end else if o>0 then for e=47,69 do if 4<o then b=a[r];break;end;m=k[a[h]];break;end;else b=a[r];end end end o=o+1 end l=l+1;e=f[l];u=e[d]n[u]=n[u](n[u+1])l=l+1;e=f[l];n[e[d]][n[e[t]]]=n[e[c]];l=l+1;e=f[l];do return end;break;end;else local a,o,u,f,r,c;local l=0;while l>-1 do if 3>=l then if 1<l then if-2<=l then repeat if l<3 then u=t;break;end;f=n;until true;else f=n;end else if l~=-3 then for n=26,60 do if l~=0 then o=d;break;end;a=e;break;end;else o=d;end end else if l<6 then if l>2 then for e=42,75 do if l~=4 then c=a[o];break;end;r=f[a[u]];break;end;else c=a[o];end else if l>=2 then repeat if 6<l then l=-2;break;end;n[c]=r;until true;else l=-2;end end end l=l+1 end end end end else if 47>=a then if a>44 then if a>=46 then if 45<=a then repeat if a~=46 then local l=e[d]n[l]=n[l](h(n,l+1,e[t]))break;end;s[e[t]]=n[e[d]];until true;else s[e[t]]=n[e[d]];end else local e=e[d];r=e+k-1;for l=e,r do local e=m[l-e];n[l]=e;end;end else if 44==a then local e=e[d]n[e]=n[e](n[e+1])else do return end;end end else if 50>a then if a~=47 then repeat if 48~=a then local e=e[d]n[e](n[e+1])break;end;do return end;until true;else do return end;end else if 50<a then if a<52 then for o=0,6 do if o<=2 then if 0>=o then n[e[d]]=n[e[t]][e[c]];l=l+1;e=f[l];else if o~=-2 then for a=19,72 do if o>1 then n[e[d]]=u[e[t]];l=l+1;e=f[l];break;end;u[e[t]]=n[e[d]];l=l+1;e=f[l];break;end;else n[e[d]]=u[e[t]];l=l+1;e=f[l];end end else if o<5 then if 4>o then n[e[d]]=n[e[t]][e[c]];l=l+1;e=f[l];else u[e[t]]=n[e[d]];l=l+1;e=f[l];end else if 3<=o then repeat if 6>o then n[e[d]]=(e[t]~=0);l=l+1;e=f[l];break;end;u[e[t]]=n[e[d]];until true;else u[e[t]]=n[e[d]];end end end end else local e=e[d]n[e]=n[e](n[e+1])end else local e=e[d];local l=n[e];for e=e+1,r do o.aeiXiFgi(l,n[e])end;end end end end end end l=1+l;end;end;return ne end;local d=0xff;local c={};local a=(1);local t='';(function(n)local l=n local f=0x00 local e=0x00 l={(function(r)if f>0x1e then return r end f=f+1 e=(e+0x1105-r)%0x10 return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x67);t='\37';d={function()d()end};t=t..'\100\43';end return true end)'QUWcu'and l[0x1](0x2a4+r))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x42);t={t..'\58 a',t};c[a]=le();a=a+((not o.wQduXbYi)and 1 or 0);t[1]='\58'..t[1];d[2]=0xff;end return true end)'SZyGC'and l[0x3](r+0x169))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x6a);end return true end)'GI_G_'and l[0x2](r+0x17d))or r end),(function(o)if f>0x26 then return o end f=f+1 e=(e+0xd85-o)%0x31 return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x7b);end return true end)'HDDPZ'and l[0x1](0x94+o))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x4a);end return true end)'wnmZv'and l[0x3](o+0xd9))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xd2);end return true end)'CsiVq'and l[0x2](o+0x38c))or o end),(function(o)if f>0x23 then return o end f=f+1 e=(e+0x10c3-o)%0x42 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x46);c[a]=de();a=a+d;end return true end)'mFYxB'and l[0x2](0xa1+o))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x6e);d[2]=(d[2]*(ne(function()c()end,h(t))-ne(d[1],h(t))))+1;c[a]={};d=d[2];a=a+d;end return true end)'JsMbe'and l[0x3](o+0x215))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xac);end return true end)'scJrx'and l[0x1](o+0x1c8))or o end)}l[0x1](0x8b4)end){};local e=j(h(c));c[2]={};c[1]=e(c[1])TAjjnOiZsllFgzn=nil;e=j(h(c))return e(...);end return oe((function()local n={}local e=0x01;local l;if o.wQduXbYi then l=o.wQduXbYi(oe)else l=''end if o.VZrMwCUq(l,o.zVMcCYPU)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,l,o,d,t)local t;if 3>=n then if 1<n then if 0<=n then for t=46,85 do if 3~=n then do return 16777216,65536,256 end;break;end;do return e(1),e(4,d,o,l,e),e(5,d,o,l)end;break;end;else do return 16777216,65536,256 end;end else if-1~=n then for t=42,70 do if 1~=n then do return e(1),e(4,d,o,l,e),e(5,d,o,l)end;break;end;do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;break;end;else do return e(1),e(4,d,o,l,e),e(5,d,o,l)end;end end else if n>5 then if n<=6 then do return d[l]end;else if n>=4 then repeat if n~=7 then do return l(n,nil,l);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,l,o,d,n)if n then return e[n]elseif d then return e else e[l]=o end end})end until true;else do return setmetatable({},{['__\99\97\108\108']=function(e,l,o,d,n)if n then return e[n]elseif d then return e else e[l]=o end end})end end end else if n~=0 then repeat if n>4 then local n=o;do return function()local e=e(l,n(n,n),n(n,n));n(1);return e;end;end;break;end;local n=o;local d,a,f=d(2);do return function()local t,o,l,e=e(l,n(n,n),n(n,n)+3);n(4);return(e*d)+(l*a)+(o*f)+t;end;end;until true;else local n=o;local o,t,d=d(2);do return function()local a,f,e,l=e(l,n(n,n),n(n,n)+3);n(4);return(l*o)+(e*t)+(f*d)+a;end;end;end end end end),...)
+local osclock=os.clock
+local tspawn=task.spawn
+local twait=task.wait
+local schar=string.char
+local ssub=string.sub
+local sfind=string.find
+local supper=string.upper
+local mrandom=math.random
+local sin=math.sin
+local cos=math.cos
+local abs=math.abs
+local min=math.min
+local max=math.max
+local clamp=math.clamp
+local round=math.round
+local tinsert=table.insert
+local tclear=table.clear
+local tclone=table.clone
+local tfind=table.find
+local next=next
+local pcall=pcall
+local xpcall=xpcall
+local type=type
+local typeof=typeof
+local game=game
+local replicatesignal=replicatesignal
+local i=Instance.new 
+local v2=Vector2.new 
+local v3=Vector3.new
+local c3=Color3.new 
+local cf=CFrame.new
+local cfl=CFrame.lookAt
+local angles=CFrame.Angles
+local u2=UDim2.new 
+local e=Enum 
+local rp=RaycastParams.new 
+local cs=ColorSequence.new 
+local csk=ColorSequenceKeypoint.new 
+local sine=osclock()
+local deltaTime=0
+local v3_0=v3()
+local v3_101=v3(1,0,1)
+local v3_010=v3(0,1,0)
+local v3_001=v3(0,0,1)
+local cf_0=cf()
+local v3_xz=v3_101*10
+local v3_xzL=v3_101*250.1
+local v3_net=v3_010*25.01
+local pdloadedtime=nil
+local rs=function()
+	local s=""
+	for i=1,mrandom(8,15) do
+		if mrandom(2)==2 then
+			s=s..schar(mrandom(65,90))
+		else
+			s=s..schar(mrandom(97,122))
+		end
+	end
+	return s
+end
+
+--it runs even faster if u call __index and __newindex metamethods directly
+local getMetamethodFromErrorStack=function(userdata,f,test)
+	local ret=nil
+	xpcall(f,function()
+		ret=debug.info(2,"f")
+	end,userdata,nil,0)
+	if (type(ret)~="function") or not test(ret) then
+		return f
+	end
+	return ret
+end
+local insSet=getMetamethodFromErrorStack(game,function(a,b,c) a[b]=c end,function(f) local a=i("Folder") local b=rs() f(a,"Name",b) return a.Name==b end)
+local insGet=getMetamethodFromErrorStack(game,function(a,b) return a[b] end,function(f) local a=i("Folder") local b=rs() a.Name=b return f(a,"Name")==b end)
+local cfGet=getMetamethodFromErrorStack(cf_0,function(a,b) return a[b] end,function(f) return f(cf(1,2,3),"Position")==v3(1,2,3) end)
+local cfMul=getMetamethodFromErrorStack(cf_0,function(a,b) return a*b end,function(f) return angles(1,2,3)*angles(1,2,3)==f(angles(1,2,3),angles(1,2,3)) end)
+local cfAdd=getMetamethodFromErrorStack(cf_0,function(a,b) return a+b end,function(f) return cf(1,2,3)+v3(1,2,3)==f(cf(1,2,3),v3(1,2,3)) end)
+local v3Get=getMetamethodFromErrorStack(v3_0,function(a,b) return a[b] end,function(f) return v3(1,2,3).Unit==f(v3(1,2,3),"Unit") end)
+--multiplying and adding vector3 is faster if you use the * and + operators
+
+--no need to index instances every time to call their functions
+local Clone=insGet(game,"Clone")
+local ClearAllChildren=insGet(game,"ClearAllChildren")
+local Destroy=insGet(game,"Destroy")
+local IsA=insGet(game,"IsA")
+local FindFirstChildOfClass=insGet(game,"FindFirstChildOfClass")
+local FindFirstChildWhichIsA=insGet(game,"FindFirstChildWhichIsA")
+local GetChildren=insGet(game,"GetChildren")
+local GetDescendants=insGet(game,"GetDescendants")
+local IsDescendantOf=insGet(game,"IsDescendantOf")
+local GetPropertyChangedSignal=insGet(game,"GetPropertyChangedSignal")
+
+--findfirstchildofclass faster than getservice
+local plrs=FindFirstChildOfClass(game,"Players")
+local rus=FindFirstChildOfClass(game,"RunService")
+local ws=FindFirstChildOfClass(game,"Workspace")
+local uis=FindFirstChildOfClass(game,"UserInputService")
+local gs=FindFirstChildOfClass(game,"GuiService")
+local sg=FindFirstChildOfClass(game,"StarterGui")
+local lp=insGet(plrs,"LocalPlayer")
+local pg=FindFirstChildOfClass(lp,"PlayerGui")
+local mouse=insGet(lp,"GetMouse")(lp)
+local cdsb=insGet(lp,"ConnectDiedSignalBackend")
+local rst=insGet(plrs,"RespawnTime")+0.07 --1/15
+local preanimation=insGet(rus,"PreAnimation")
+local heartbeat=insGet(rus,"Heartbeat")
+local renderstepped=insGet(rus,"RenderStepped")
+
+local GetPlayers=insGet(plrs,"GetPlayers")
+local SetCoreGuiEnabled=insGet(sg,"SetCoreGuiEnabled")
+local GetCoreGuiEnabled=insGet(sg,"GetCoreGuiEnabled")
+local Raycast=insGet(ws,"Raycast")
+local Connect=heartbeat.Connect
+local Disconnect=Connect(GetPropertyChangedSignal(game,"CreatorId"),type).Disconnect
+local Wait=heartbeat.Wait
+local GetMouseLocation=insGet(uis,"GetMouseLocation")
+local GetFocusedTextBox=insGet(uis,"GetFocusedTextBox")
+local GetMouseDelta=insGet(uis,"GetMouseDelta")
+local IsMouseButtonPressed=insGet(uis,"IsMouseButtonPressed")
+local IsKeyDown=insGet(uis,"IsKeyDown")
+
+local Inverse=cfGet(cf_0,"Inverse")
+local Lerp=cfGet(cf_0,"Lerp")
+
+local guiTheme={
+	guiTitle="patchma hub",
+	windowTitleColor=c3(0,0,1),
+	windowTopColor=c3(0,0,0),
+	windowBottomColor=c3(0,0,0.584314),
+	windowMinimizedSize={X=220,Y=22},
+	windowRegularSize={X=220,Y=290},
+	buttonsTextColor=c3(0.0941177,0.317647,0.878431),
+	labelsTextColor=c3(0.560784,0.560784,0.560784),
+	listTopColor=c3(0,0,0),
+	listBottomColor=c3(0.0705882,0.0705882,0.0705882)
+}
+
+local accessorylimbs={
+
+	{meshid="14255522247",textureid="",C0=angles(1.5707963267948966,0,1.5707963267948966),Name="Left Arm"},
+	{meshid="14255522247",textureid="",C0=angles(-1.5707963267948966,0,1.5707963267948966),Name="Right Arm"},
+
+	{meshid="12344207333",textureid="",C0=angles(2,0,0),Name="Left Arm"},
+	{meshid="12344206657",textureid="",C0=angles(2,0,0),Name="Right Arm"},
+
+	{meshid="13831073174",textureid="",C0=cfMul(cf(0.017,0,-0.23),angles(-1.4835298641951802,-0.15707963267948966,2.199114857512855)),Name="Left Arm"},
+	{meshid="13839903766",textureid="",C0=cfMul(cf(0,-0.62,-0.01),angles(1.6580627893946132,0.15707963267948966,-2.199114857512855)),Name="Right Arm"},
+
+	{meshid="11159370334",textureid="11159285454",C0=angles(1.5707963267948966,0,1.5707963267948966),Name="Left Leg"},
+
+	{meshid="14768684979",textureid="",C0=angles(0,0,1.5707963267948966),Name="Left Leg"},
+	{meshid="14768684979",textureid="",C0=angles(0,0,1.5707963267948966),Name="Right Leg"},
+
+
+	{meshid="14768666349",textureid="",C0=cf_0,Name="Torso"},
+	{meshid="14241018198",textureid="",C0=cf_0,Name="Torso"},
+	{meshid="13421774668",textureid="",C0=cf_0,Name="Torso"},
+
+	{meshid="4324138105",textureid="4324138210",C0=cfMul(angles(-1.6144295580947547,1.5707963267948966,0),cf(-0.125,0.1,0)),Name="Left Arm"},
+	{meshid="4154474745",textureid="4154474807",C0=cfMul(angles(1.5271630954950384,-1.5707963267948966,0),cf(-0.125,-1.5,0)),Name="Left Arm"},
+	{meshid="3030546036",textureid="3650191503",C0=cfMul(angles(1.5271630954950384,1.5707963267948966,0),cf(0.125,-1.5,0)),Name="Right Arm"},
+	{meshid="3030546036",textureid="3443321249",C0=cfMul(angles(-1.6144295580947547,-1.5707963267948966,0),cf(0.125,0.1,0)),Name="Right Arm"},
+	{meshid="3030546036",textureid="3360974849",C0=cfMul(angles(1.5271630954950384,1.5707963267948966,0),cf(-0.125,-1.5,0)),Name="Left Leg"},
+	{meshid="3030546036",textureid="3360978739",C0=cfMul(angles(-1.6144295580947547,-1.5707963267948966,0),cf(-0.125,0.3,0)),Name="Left Leg"},
+	{meshid="3030546036",textureid="3033898741",C0=cfMul(angles(1.5271630954950384,-1.5707963267948966,0),cf(0.125,-1.5,0)),Name="Right Leg"},
+	{meshid="3030546036",textureid="3409604993",C0=cfMul(angles(-1.6144295580947547,1.5707963267948966,0),cf(0.125,0.3,0)),Name="Right Leg"},
+	{meshid="14255522247",textureid="14255543546",C0=cfMul(angles(1.5271630954950384,1.5707963267948966,0),cf(0.125,-1.5,0)),Name="Right Arm"},
+	{meshid="14768684979",textureid="14768683674",C0=cfMul(angles(1.5271630954950384,1.5707963267948966,0),cf(0.125,-1.5,0)),Name="Right Arm"},
+	{meshid="11159370334",textureid="11159284657",C0=cfMul(angles(1.5707963267948966,0,1.5707963267948966),cf(0,-1.6,0)),Name="Right Arm"},
+	{meshid="11263221350",textureid="11263219250",C0=cfMul(angles(1.5707963267948966,0,1.5707963267948966),cf(0,-1.6,0)),Name="Left Arm"},
+	{meshid="17387586286",textureid="17387586304",C0=cfMul(angles(1.5707963267948966,0,1.5707963267948966),cf(0,-1.6,0)),Name="Left Leg"},
+	{meshid="17374767929",textureid="17374768001",C0=cfMul(angles(1.5707963267948966,0,1.5707963267948966),cf(0,-1.6,0)),Name="Right Leg"},
+	{meshid="4819720316",textureid="4819722776",C0=angles(0,0,0.2617993877991494),Name="Torso"}
+}
+
+local gp=function(p,n,cl)
+	for i,v in next,GetChildren(p) do
+		if IsA(v,cl) and (insGet(v,"Name")==n) then
+			return v
+		end
+	end
+	return nil
+end
+local timegp=function(p,n,c,t)
+	t=osclock()+t
+	while t>osclock() do
+		for i,v in next,GetChildren(p) do
+			if IsA(v,c) and (insGet(v,"Name")==n) then
+				return v
+			end
+		end
+		Wait(preanimation)
+	end
+	return nil
+end
+local makeplaceholder=function(v)
+	if not insGet(v,"Archivable") then
+		insSet(v,"Archivable",true)
+	end
+	v=Clone(v)
+	for i,v in next,GetChildren(v) do
+		if IsA(v,"SpecialMesh") then
+			insSet(v,"Name",rs())
+			ClearAllChildren(v)
+		else
+			Destroy(v)
+		end
+	end
+	insSet(v,"Name",rs())
+	insSet(v,"Anchored",true)
+	insSet(v,"CanCollide",false)
+	insSet(v,"Transparency",0.25)
+	return v
+end
+local emptyfunction=function() end
+
+local i1=i("Frame") 
+local i2=i("Frame") 
+local i3=i("Frame") 
+local i4=i("ScrollingFrame") 
+local i5=i("UIListLayout") 
+local i6=i("UIGradient") 
+local i7=i("TextBox") 
+local i8=i("TextButton") 
+local i9=i("UIGradient") 
+local i10=i("ScreenGui") 
+insSet(i1,"AnchorPoint",v2(0.5,0))
+insSet(i1,"Active",true)
+insSet(i1,"BorderSizePixel",0)
+insSet(i1,"ClipsDescendants",true)
+insSet(i1,"Position",u2(0.5,0,0.5,guiTheme.windowRegularSize.Y/-2))
+insSet(i1,"Size",u2(0,guiTheme.windowRegularSize.X,0,guiTheme.windowRegularSize.Y))
+insSet(i1,"Name",rs())
+insSet(i1,"Parent",i10)
+insSet(i2,"BackgroundColor3",c3(1,1,1))
+insSet(i2,"BorderSizePixel",0)
+insSet(i2,"Size",u2(0,guiTheme.windowRegularSize.X,0,guiTheme.windowRegularSize.Y))
+insSet(i2,"Name",rs())
+insSet(i2,"Parent",i1)
+insSet(i3,"BackgroundColor3",c3(1,1,1))
+insSet(i3,"BorderSizePixel",0)
+insSet(i3,"Position",u2(0,5,0,guiTheme.windowMinimizedSize.Y-2))
+insSet(i3,"Size",u2(1,-10,0,guiTheme.windowRegularSize.Y-guiTheme.windowMinimizedSize.Y-3))
+insSet(i3,"Name",rs())
+insSet(i3,"Parent",i2)
+insSet(i4,"Active",true)
+insSet(i4,"BackgroundTransparency",1)
+insSet(i4,"BorderSizePixel",0)
+insSet(i4,"Size",u2(1,-3,1,0))
+insSet(i4,"AutomaticCanvasSize",e.AutomaticSize.Y)
+insSet(i4,"CanvasSize",u2(0,0,0,0))
+insSet(i4,"ScrollBarThickness",7)
+insSet(i4,"Name",rs())
+insSet(i4,"Parent",i3)
+insSet(i5,"Name",rs())
+insSet(i5,"Parent",i4)
+insSet(i5,"SortOrder",e.SortOrder.LayoutOrder)
+insSet(i6,"Name",rs())
+insSet(i6,"Parent",i3)
+insSet(i6,"Color",cs({csk(0,guiTheme.listTopColor),csk(1,guiTheme.listBottomColor)}))
+insSet(i6,"Rotation",90)
+insSet(i7,"Font",e.Font.SourceSans)
+insSet(i7,"FontSize",e.FontSize.Size18)
+insSet(i7,"ClearTextOnFocus",false)
+insSet(i7,"Text",guiTheme.guiTitle)
+insSet(i7,"TextColor3",guiTheme.windowTitleColor)
+insSet(i7,"TextSize",16)
+insSet(i7,"AnchorPoint",v2(0.5,0))
+insSet(i7,"BackgroundTransparency",1)
+insSet(i7,"Position",u2(0.5,0,0,guiTheme.windowMinimizedSize.Y/2))
+insSet(i7,"Name",rs())
+insSet(i7,"Parent",i2)
+insSet(i8,"AnchorPoint",v2(1,0))
+insSet(i8,"BackgroundTransparency",1)
+insSet(i8,"Position",u2(1,0,0,0))
+insSet(i8,"Size",u2(0,40,0,guiTheme.windowMinimizedSize.Y))
+insSet(i8,"Name",rs())
+insSet(i8,"Parent",i2)
+insSet(i8,"Font",e.Font.SourceSans)
+insSet(i8,"FontSize",e.FontSize.Size18)
+insSet(i8,"Text","-")
+insSet(i8,"TextColor3",c3(1,1,1))
+insSet(i8,"TextSize",16)
+insSet(i9,"Name",rs())
+insSet(i9,"Parent",i2)
+insSet(i9,"Color",cs({csk(0,guiTheme.windowTopColor),csk(1,guiTheme.windowBottomColor)}))
+insSet(i9,"Rotation",90)
+insSet(i10,"ZIndexBehavior",e.ZIndexBehavior.Sibling)
+insSet(i10,"IgnoreGuiInset",true)
+insSet(i10,"ResetOnSpawn",false)
+insSet(i10,"DisplayOrder",2147483647)
+insSet(i10,"Name",rs())
+local guimin=false
+local minloop=false
+local i1X=guiTheme.windowRegularSize.X
+local i1Y=guiTheme.windowRegularSize.Y
+local i1Xdest=i1X
+local i1Ydest=i1Y
+Connect(insGet(i8,"MouseButton1Click"),function()
+	guimin = not guimin
+	if guimin then
+		i1Xdest=guiTheme.windowMinimizedSize.X
+		i1Ydest=guiTheme.windowMinimizedSize.Y
+	else
+		i1Xdest=guiTheme.windowRegularSize.X
+		i1Ydest=guiTheme.windowRegularSize.Y
+	end
+	if minloop then
+		return
+	end
+	minloop=true
+	insSet(i3,"Visible",true) 
+	sine=osclock()
+	local lastsine=sine
+	while true do
+		sine=osclock()
+		local deltaTime=(sine-lastsine)*10
+		lastsine=sine
+		local difX=i1Xdest-i1X
+		local difY=i1Ydest-i1Y
+		if (abs(difY)<=1) and (abs(difX)<=1) then
+			i1X=i1Xdest
+			i1Y=i1Ydest
+			insSet(i1,"Size",u2(0,i1X,0,i1Y))
+			break
+		end
+		i1X=i1X+difX*deltaTime
+		i1Y=i1Y+difY*deltaTime
+		insSet(i1,"Size",u2(0,i1X,0,i1Y))
+		twait()
+	end
+	insSet(i3,"Visible",not guimin) 
+	minloop=false
+end)
+local Draggable=function(window,obj)
+	local MB1enum = e.UserInputType.MouseButton1
+	local TOUCHenum = e.UserInputType.Touch
+	obj = obj or window
+	local activeEntered = 0
+	local mouseStart = nil
+	local dragStart = nil
+	local inputbegancon = nil
+	local rendersteppedcon = nil
+	local inputendedcon = nil
+	local inputendedf=function(a)
+		a=insGet(a,"UserInputType")
+		if (a==MB1enum) or (a==TOUCHenum) then
+			Disconnect(rendersteppedcon)
+			Disconnect(inputendedcon)
+		end
+	end
+	local rendersteppedf=function()
+		local off = GetMouseLocation(uis)-mouseStart
+		insSet(window,"Position",dragStart+u2(0,off.X,0,off.Y))
+	end
+	local inputbeganf=function(a)
+		a=insGet(a,"UserInputType")
+		if ((a==MB1enum) or (a==TOUCHenum)) and (activeEntered==0) and not GetFocusedTextBox(uis) then
+			mouseStart=GetMouseLocation(uis)
+			dragStart=insGet(window,"Position")
+			if rendersteppedcon then Disconnect(rendersteppedcon) end
+			rendersteppedcon = Connect(renderstepped,rendersteppedf)
+			if inputendedcon then Disconnect(inputendedcon) end
+			inputendedcon = Connect(insGet(uis,"InputEnded"),inputendedf)
+		end
+	end
+	Connect(insGet(obj,"MouseEnter"),function()
+		if inputbegancon then Disconnect(inputbegancon) end
+		inputbegancon = Connect(insGet(uis,"InputBegan"),inputbeganf)
+	end)
+	Connect(insGet(obj,"MouseLeave"),function()
+		Disconnect(inputbegancon)
+	end)
+	local ondes=function(d)
+		if IsA(d,"GuiObject") then
+			local thisEntered = false
+			local thisAdded = false
+			local con0 = Connect(insGet(d,"MouseEnter"),function()
+				thisEntered = true
+				if (not thisAdded) and insGet(d,"Active") then
+					activeEntered = activeEntered + 1
+					thisAdded = true
+				end
+			end)
+			local con1 = Connect(insGet(d,"MouseLeave"),function()
+				thisEntered = false
+				if thisAdded then
+					activeEntered = activeEntered - 1
+					thisAdded = false
+				end
+			end)
+			local con2 = Connect(GetPropertyChangedSignal(d,"Active"),function()
+				if thisEntered then
+					if thisAdded and not insGet(d,"Active") then
+						activeEntered = activeEntered - 1
+						thisAdded = false
+					elseif insGet(d,"Active") and not thisAdded then
+						activeEntered = activeEntered + 1
+						thisAdded = true
+					end
+				end
+			end)
+			local con3 = nil
+			con3 = Connect(insGet(d,"AncestryChanged"),function()
+				if not IsDescendantOf(d,window) then
+					if thisAdded then
+						activeEntered = activeEntered - 1
+					end
+					Disconnect(con0)
+					Disconnect(con1)
+					Disconnect(con2)
+					Disconnect(con3)
+				end
+			end)
+		end
+	end
+	Connect(insGet(window,"DescendantAdded"),ondes)
+	for i,v in next,GetDescendants(window) do 
+		ondes(v)
+	end
+end
+local btn=function(txt, f)
+	local i1=i("TextBox") 
+	local i2=i("TextButton")
+	insSet(i1,"Font",e.Font.SourceSans)
+	insSet(i1,"FontSize",e.FontSize.Size14)
+	insSet(i1,"Text",txt)
+	insSet(i1,"ClearTextOnFocus",false)
+	insSet(i1,"Position",u2(0.5,0,0.5,0))
+	insSet(i1,"TextColor3",guiTheme.buttonsTextColor)
+	insSet(i1,"Name",rs())
+	insSet(i1,"Parent",i2)
+	insSet(i2,"BackgroundTransparency",1)
+	insSet(i2,"TextTransparency",1)
+	insSet(i2,"Size",u2(1,0,0,14))
+	insSet(i2,"Name",rs())
+	if f then 
+		Connect(insGet(i2,"MouseButton1Click"),f) 
+	end 
+	insSet(i2,"Parent",i4)
+	return i1
+end
+local lbl=function(txt)
+	local i1=i("TextBox") 
+	local i2=i("Frame") 
+	insSet(i1,"Font",e.Font.SourceSans)
+	insSet(i1,"FontSize",e.FontSize.Size14)
+	insSet(i1,"Text",txt)
+	insSet(i1,"ClearTextOnFocus",false)
+	insSet(i1,"TextColor3",guiTheme.labelsTextColor)
+	insSet(i1,"Position",u2(0.5,0,0.5))
+	insSet(i1,"BackgroundTransparency",1)
+	insSet(i1,"Name",rs())
+	insSet(i1,"Parent",i2)
+	insSet(i2,"Size",u2(1,0,0,14))
+	insSet(i2,"BackgroundTransparency",1)
+	insSet(i2,"Name",rs())
+	insSet(i2,"Parent",i4)
+	return i1
+end
+
+Draggable(i1)
+
+lbl("by MyWorld")
+lbl("discord.gg/QMy5f6DrbH")
+
+local allowshiftlock=nil
+local ctrltp=nil
+local placeholders=nil
+local clickfling=nil
+local highlightflingtargets=nil
+local discharscripts=nil
+local flingchangestate=nil
+local respawntp=nil
+local breakjointsmethod=nil
+local simrad=false
+local hidedeatheffect=nil
+
+local c=nil
+local stopreanimate=function() 
+	if c then
+		c=nil
+		if replicatesignal then
+			replicatesignal(cdsb)
+		end
+		return true
+	end
+	return false
+end
+local reanimate=function()
+	--[[
+		FDless reanimate by MyWorld
+		optimize the optimized
+	]]
+
+	local novoid = true --prevents parts from going under workspace.FallenPartsDestroyHeight if you control them
+	local speedlimit = 3000 --makes your parts move slower if the magnitude of their velocity is higher than this
+	local retVelTime = 0.51 --time that claimed parts have velocity to reclaim in case u lose them
+	local walkSpeed = 16 --your walkspeed (can be changed at runtime)
+	local jumpPower = 50 --your jump power (can be changed at runtime)
+	local gravity = 196.2 --how fast the characters velocity decreases while falling (can be changed at runtime)
+	local ctrlclicktp = ctrltp --makes you teleport where u point ur mouse cursor at when click and hold ctrl down
+	local clickfling = clickfling --makes you fling the person you clicked when its available to do so
+	local flingvel = v3(15000,16000,15000) --the rotation velocity that ur character will have while flinging
+
+	if stopreanimate() then return end
+	c=insGet(lp,"Character")
+	if not (c and IsDescendantOf(c,ws)) then return end
+
+	local rootpart=gp(c,"HumanoidRootPart","BasePart") or gp(c,"Torso","BasePart") or gp(c,"UpperTorso","BasePart") or timegp(c,"HumanoidRootPart","BasePart",0.5) or FindFirstChildWhichIsA(c,"BasePart")
+	if not rootpart then return end
+
+	local cam=nil
+	--theres a way to have ws.currentcamera nil on heartbeat and still have the game run normally
+	local refcam=function()
+		local newcam=insGet(ws,"CurrentCamera")
+		while not newcam do
+			Wait(GetPropertyChangedSignal(ws,"CurrentCamera"))
+			newcam=insGet(ws,"CurrentCamera")
+		end
+		cam=newcam
+	end
+	refcam()
+	local camcf=insGet(cam,"CFrame")
+	local enumCamS=e.CameraType.Scriptable
+	local camt=insGet(cam,"CameraType")
+	local camcon0=nil
+	local camcon1=nil
+	local camcon2=nil
+	local onnewcamera=function()
+		refcam()
+		if camcon0 then 
+			Disconnect(camcon0)
+			Disconnect(camcon1)
+			camcon0=nil
+		end
+		if not c then 
+			if insGet(cam,"CameraType")==enumCamS then
+				insSet(cam,"CameraType",camt)
+			end
+			return Disconnect(camcon2) 
+		end
+		camcon0=Connect(GetPropertyChangedSignal(cam,"CFrame"),function()
+			if insGet(cam,"CFrame")~=camcf then
+				insSet(cam,"CFrame",camcf)
+			end
+		end)
+		camcon1=Connect(GetPropertyChangedSignal(cam,"CameraType"),function()
+			if insGet(cam,"CameraType")~=enumCamS then
+				insSet(cam,"CameraType",enumCamS)
+			end
+		end)
+		if insGet(cam,"CameraType")~=enumCamS then
+			insSet(cam,"CameraType",enumCamS)
+		end
+		if insGet(cam,"CFrame")~=camcf then
+			insSet(cam,"CFrame",camcf)
+		end
+	end
+	camcon2=Connect(GetPropertyChangedSignal(ws,"CurrentCamera"),onnewcamera)
+	onnewcamera()
+
+	local velYdelta=insGet(ws,"Gravity")*0.025
+	Connect(GetPropertyChangedSignal(ws,"Gravity"),function()
+		velYdelta=insGet(ws,"Gravity")*0.025
+	end)
+
+	local fpdh=insGet(ws,"FallenPartsDestroyHeight")
+	novoid=novoid and (fpdh+1)
+
+	local Yvel=0
+	local cfr=insGet(rootpart,"CFrame")
+	local pos=cfGet(cfr,"Position")
+	cfr=cfl(pos,pos+cfGet(cfr,"LookVector")*v3_101)
+	local primarypart=nil
+	local shiftlock=false
+	local firstperson=false
+	local xzvel=v3_0
+	local v3_0150=v3_010*1.5
+	local camcfLV=cfGet(camcf,"LookVector")
+	local camrot=cfl(v3_0,camcfLV)
+	local camcfRV=cfGet(camrot,"RightVector")
+	local cammag=-v3Get((cfGet(camcf,"Position")-(pos+v3_0150)),"Magnitude")
+
+	local R6parts={ 
+		head={Name="Head"},
+		torso={Name="Torso"},
+		root={Name="HumanoidRootPart"},
+		leftArm={Name="Left Arm"},
+		rightArm={Name="Right Arm"},
+		leftLeg={Name="Left Leg"},
+		rightLeg={Name="Right Leg"}
+	}
+	rootpart=R6parts.root
+	local cframes={}
+	for i,v in next,R6parts do
+		cframes[v]=cfr
+	end
+	local joints={
+		{
+			Name="Neck",
+			Part0=R6parts.torso,Part1=R6parts.head,
+			C0=cf(0,1,0,-1,0,0,0,0,1,0,1,-0),
+			C1=cf(0,-0.5,0,-1,0,0,0,0,1,0,1,-0)
+		},
+		{
+			Name="RootJoint",
+			Part0=rootpart,Part1=R6parts.torso,
+			C0=cf(0,0,0,-1,0,0,0,0,1,0,1,-0),
+			C1=cf(0,0,0,-1,0,0,0,0,1,0,1,-0)
+		},
+		{
+			Name="Right Shoulder",
+			Part0=R6parts.torso,Part1=R6parts.rightArm,
+			C0=cf(1,0.5,0,0,0,1,0,1,-0,-1,0,0),
+			C1=cf(-0.5,0.5,0,0,0,1,0,1,-0,-1,0,0)
+		},
+		{
+			Name="Left Shoulder",
+			Part0=R6parts.torso,Part1=R6parts.leftArm,
+			C0=cf(-1,0.5,0,0,0,-1,0,1,0,1,0,0),
+			C1=cf(0.5,0.5,0,0,0,-1,0,1,0,1,0,0)
+		},
+		{
+			Name="Right Hip",
+			Part0=R6parts.torso,Part1=R6parts.rightLeg,
+			C0=cf(1,-1,0,0,0,1,0,1,-0,-1,0,0),
+			C1=cf(0.5,1,0,0,0,1,0,1,-0,-1,0,0)
+		},
+		{
+			Name="Left Hip",
+			Part0=R6parts.torso,Part1=R6parts.leftLeg,
+			C0=cf(-1,-1,0,0,0,-1,0,1,0,1,0,0),
+			C1=cf(-0.5,1,0,0,0,-1,0,1,0,1,0,0)
+		}
+	}
+
+	local refreshedjoints={}
+	local refreshjointsI=nil
+	refreshjointsI=function(part)
+		tinsert(refreshedjoints,part)
+		for i,v in next,joints do
+			local part0=v.Part0
+			local part1=v.Part1
+			if part1 and (part0==part) then
+				cframes[part1]=cfMul(cframes[part],cfMul(v.C0,Inverse(v.C1)))
+				if not tfind(refreshedjoints,part1) then
+					refreshjointsI(part1)
+				end
+			elseif part0 and (part1==part) then
+				cframes[part0]=cfMul(cframes[part],cfMul(v.C1,Inverse(v.C0)))
+				if not tfind(refreshedjoints,part0) then
+					refreshjointsI(part0)
+				end
+			end
+		end
+	end
+	refreshjointsI(rootpart)
+	tclear(refreshedjoints)
+
+	local attachments={
+		RightShoulderAttachment={R6parts.rightArm,cf(0,1,0,1,0,0,0,1,0,0,0,1)},
+		RightGripAttachment={R6parts.rightArm,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+		LeftFootAttachment={R6parts.leftLeg,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+		LeftShoulderAttachment={R6parts.leftArm,cf(0,1,0,1,0,0,0,1,0,0,0,1)},
+		LeftGripAttachment={R6parts.leftArm,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+		RootAttachment={rootpart,cf(0,0,0,1,0,0,0,1,0,0,0,1)},
+		RightFootAttachment={R6parts.rightLeg,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+		NeckAttachment={R6parts.torso,cf(0,1,0,1,0,0,0,1,0,0,0,1)},
+		BodyFrontAttachment={R6parts.torso,cf(0,0,-0.5,1,0,0,0,1,0,0,0,1)},
+		BodyBackAttachment={R6parts.torso,cf(0,0,0.5,1,0,0,0,1,0,0,0,1)},
+		LeftCollarAttachment={R6parts.torso,cf(-1,1,0,1,0,0,0,1,0,0,0,1)},
+		RightCollarAttachment={R6parts.torso,cf(1,1,0,1,0,0,0,1,0,0,0,1)},
+		WaistFrontAttachment={R6parts.torso,cf(0,-1,-0.5,1,0,0,0,1,0,0,0,1)},
+		WaistCenterAttachment={R6parts.torso,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+		WaistBackAttachment={R6parts.torso,cf(0,-1,0.5,1,0,0,0,1,0,0,0,1)},
+		HairAttachment={R6parts.head,cf(0,0.6,0,1,0,0,0,1,0,0,0,1)},
+		HatAttachment={R6parts.head,cf(0,0.6,0,1,0,0,0,1,0,0,0,1)},
+		FaceFrontAttachment={R6parts.head,cf(0,0,-0.6,1,0,0,0,1,0,0,0,1)},
+		FaceCenterAttachment={R6parts.head,cf(0,0,0,1,0,0,0,1,0,0,0,1)}
+	}
+
+	local getPart=function(name,blacklist)
+		if blacklist then
+			for i,v in next,cframes do
+				if (i.Name==name) and not tfind(blacklist,i) then
+					return i
+				end
+			end
+		else
+			for i,v in next,cframes do
+				if i.Name==name then
+					return i
+				end
+			end
+		end
+		return nil
+	end
+
+	local getJoint=function(name)
+		for i,v in next,joints do
+			if v.Name==name then
+				return v
+			end
+		end
+		return {C0=cf_0,C1=cf_0}
+	end
+
+	local getPartFromMesh=function(m,t,blacklist)
+		if blacklist then
+			for v,_ in next,cframes do
+				if v.m and (not tfind(blacklist,v)) and sfind(v.m,m) and sfind(v.t,t) then
+					return v
+				end
+			end
+		else
+			for v,_ in next,cframes do
+				if v.m and sfind(v.m,m) and sfind(v.t,t) then
+					return v
+				end
+			end
+		end
+		local p={m=m,t=t}
+		cframes[p]=cfr
+		local j={C0=cf_0,C1=cf_0,Part0=p}
+		p.j=j
+		return p
+	end
+
+	local getPartJoint=function(p)
+		if cframes[p] then
+			local j=p.j
+			if j then
+				return j
+			end
+			for i,v in next,joints do
+				if v.Part0==p then
+					return v
+				end
+			end
+			for i,v in next,joints do
+				if v.Part1==p then
+					return v
+				end
+			end
+		end
+		return nil
+	end
+
+	local getAccWeldFromMesh=function(m,t)
+		return getPartJoint(getPartFromMesh(m,t))
+	end
+
+	local raycastparams=rp()
+	raycastparams.FilterType=e.RaycastFilterType.Exclude
+	raycastparams.RespectCanCollide=true
+	local rayfilter={}
+	local characters={}
+	local refreshrayfilter=function()
+		tclear(rayfilter)
+		for i,v in next,characters do
+			tinsert(rayfilter,v)
+		end
+		raycastparams.FilterDescendantsInstances=rayfilter
+	end
+	local flingtable={}
+	local rootparts={}
+	for i,v in next,accessorylimbs do
+		v.p=getPart(v.Name)
+	end
+	local makePartCons=function(p,t)
+		if (t.p==p) and insGet(p,"Anchored") then
+			t.p=nil
+		end
+		local con0=Connect(GetPropertyChangedSignal(p,"Anchored"),function()
+			if insGet(p,"Anchored") then
+				if t.p==p then
+					t.c=nil
+					t.p=nil
+				end
+			elseif not t.p then
+				t.p=p
+			end
+		end)
+		local con1=nil
+		con1=Connect(insGet(p,"AncestryChanged"),function()
+			if not IsDescendantOf(p,ws) then
+				Disconnect(con0)
+				Disconnect(con1)
+				if t.p==p then
+					t.p=nil
+				end
+			end
+		end)
+	end
+	local ondes=nil
+	ondes=function(v)
+		if c and IsA(v,"Attachment") and IsDescendantOf(c,ws) then
+			local v1=attachments[insGet(v,"Name")]
+			if v1 then
+				local p=insGet(v,"Parent")
+				if insGet(p,"Parent")~=c then
+					local meshid=nil
+					local textureid=nil
+					if IsA(p,"MeshPart") then
+						meshid=insGet(p,"MeshId")
+						textureid=insGet(p,"TextureID")
+					elseif IsA(p,"BasePart") then
+						local sm=FindFirstChildOfClass(p,"SpecialMesh")
+						if sm then
+							meshid=insGet(sm,"MeshId")
+							textureid=insGet(sm,"TextureId")
+						else
+							return
+						end
+					else
+						return
+					end
+					for i,_ in next,cframes do
+						if (meshid==i.m) and (textureid==i.t) then
+							local p1=i.p
+							if p1 and IsDescendantOf(p1,c) then
+								if p1==p then
+									return
+								end
+							else
+								i.p=p
+								makePartCons(p,i)
+								return
+							end
+						else
+							local j=i.j
+							if j and sfind(meshid,i.m) and sfind(textureid,i.t) then
+								i.m=meshid
+								i.t=textureid
+								i.l=insGet(p,"Position")
+								i.p=p
+								makePartCons(p,i)
+								i.j=nil
+								i.Name=insGet(p,"Name")
+								j.C0=insGet(v,"CFrame")
+								j.C1=v1[2]
+								j.Part1=v1[1]
+								tinsert(joints,j)
+								return
+							end
+						end
+					end
+					for i,l in next,accessorylimbs do
+						if l.p and sfind(meshid,l.meshid) and sfind(textureid,l.textureid) then
+							local t={Name=insGet(p,"Name"),l=insGet(p,"Position"),m=meshid,t=textureid,p=p}
+							makePartCons(p,t)
+							if placeholders then
+								t.v=makeplaceholder(p)
+								t.b=false
+							end
+							cframes[t]=insGet(p,"CFrame")
+							tinsert(joints,{Part0=t,Part1=l.p,C0=l.C0,C1=cf_0})
+							l.p=nil
+							return
+						end
+					end
+					local t={Name=insGet(p,"Name"),l=insGet(p,"Position"),m=meshid,t=textureid,p=p}
+					makePartCons(p,t)
+					if placeholders then
+						t.v=makeplaceholder(p)
+						t.b=false
+					end
+					cframes[t]=insGet(p,"CFrame")
+					tinsert(joints,{Part0=t,Part1=v1[1],C0=insGet(v,"CFrame"),C1=v1[2]})
+				end
+			end
+		end
+	end
+
+	local simradv=0
+	local charcons={}
+	local enumH=e.CoreGuiType.Health
+	local onplayer=function(v)
+		simradv=simradv+1000
+		local islp=v==lp
+		local lastc=nil
+		local oncharacter=function()
+			local newc=insGet(v,"Character")
+			if c and newc and (newc~=lastc) then
+				lastc=newc
+				characters[v]=newc
+				refreshrayfilter()
+				if islp then
+					if discharscripts then
+						Connect(insGet(newc,"DescendantAdded"),discharscripts)
+						for i,v in next,GetDescendants(newc) do
+							if IsA(v,"Script") then
+								insSet(v,"Disabled",true)
+							end
+						end
+					end
+					local hrp=timegp(newc,"HumanoidRootPart","BasePart",10)
+					if not (hrp and c and IsDescendantOf(newc,ws)) then return end
+					c=newc
+					local fi,fv=next(flingtable)
+					if fi then
+						if replicatesignal and not pdloadedtime then
+							replicatesignal(cdsb)
+							pdloadedtime=osclock()+rst
+						end
+						if flingchangestate==3 then
+							local hum=FindFirstChildOfClass(c,"Humanoid")
+							if hum then
+								insGet(hum,"ChangeState")(hum,e.HumanoidStateType.Physics)
+								insGet(hum,"SetStateEnabled")(hum,e.HumanoidStateType.Seated,false)
+							end
+						elseif flingchangestate==1 then
+							local hum=FindFirstChildOfClass(c,"Humanoid")
+							if hum then
+								insGet(hum,"ChangeState")(hum,e.HumanoidStateType.Physics)
+							end
+						elseif flingchangestate==2 then
+							local hum=FindFirstChildOfClass(c,"Humanoid")
+							if hum then
+								insGet(hum,"SetStateEnabled")(hum,e.HumanoidStateType.Seated,false)
+							end
+						end
+						for i,v in next,tclone(flingtable) do
+							if not c then
+								return
+							end
+							local startpos=insGet(i,"Position")
+							local stoptime=sine+3
+							while true do
+								twait()
+								if sine>stoptime then
+									break
+								end
+								if insGet(i,"Anchored") or not IsDescendantOf(i,ws) then
+									break
+								end
+								if v3Get((startpos-insGet(i,"Position")),"Magnitude")>200 then
+									break
+								end
+								local tcf=cfAdd(insGet(i,"CFrame"),insGet(i,"AssemblyLinearVelocity")*(sin(sine*15)+1))
+								if novoid and (cfGet(tcf,"Y")<novoid) then
+									tcf=cfAdd(tcf,v3_010*(novoid-cfGet(tcf,"Y")))
+								end
+								insSet(hrp,"CFrame",tcf)
+								insSet(hrp,"AssemblyLinearVelocity",insGet(i,"AssemblyLinearVelocity")*v3_101*75)
+								insSet(hrp,"AssemblyAngularVelocity",flingvel)
+							end
+							if v then
+								Destroy(v)
+							end
+							flingtable[i]=nil
+						end
+						insSet(hrp,"AssemblyLinearVelocity",v3_0)
+						insSet(hrp,"AssemblyAngularVelocity",v3_0)
+						insSet(hrp,"CFrame",cfr)
+						twait(0.17)
+					end
+					if respawntp==1 then
+						local startpos=pos+v3(mrandom(-32,32),0,mrandom(-32,32))
+						local dir=nil
+						local poscheck=true
+						while poscheck do
+							poscheck=false
+							for i,v in next,rootparts do
+								local diff=(startpos-insGet(v,"Position"))*v3_101
+								if v3Get(diff,"Magnitude")<10 then
+									poscheck=true
+									dir=dir or (v3Get(diff,"Unit")*3)
+									startpos=startpos+dir
+								end
+							end
+							local diff=(startpos-pos)*v3_101
+							if v3Get(diff,"Magnitude")<10 then
+								poscheck=true
+								dir=dir or (v3Get(diff,"Unit")*3)
+								startpos=startpos+dir
+							end
+						end
+						startpos=cfAdd(cfGet(cfr,"Rotation"),startpos)
+						insSet(hrp,"CFrame",startpos)
+						insSet(hrp,"AssemblyLinearVelocity",v3_0)
+						insSet(hrp,"AssemblyAngularVelocity",v3_0)
+						twait(0.17)
+					elseif respawntp==2 then
+						insSet(hrp,"CFrame",cfAdd(cfr,cfGet(cfr,"RightVector")*3.5-cfGet(cfr,"LookVector")*3.5))
+						insSet(hrp,"AssemblyLinearVelocity",v3_0)
+						insSet(hrp,"AssemblyAngularVelocity",v3_0)
+						twait(0.17)
+					elseif respawntp==3 then
+						local t=osclock()+0.17
+						if pdloadedtime and pdloadedtime>t then
+							t=pdloadedtime
+						end
+						local startcf=cfAdd(cfMul(cfGet(cfr,"Rotation"),angles(1.5707963267948966,0,0)),pos*v3_101+v3_010*min(fpdh+30,v3Get(pos,"Y")-5))
+						while twait() do
+							insSet(hrp,"CFrame",startcf)
+							insSet(hrp,"AssemblyLinearVelocity",v3_0)
+							insSet(hrp,"AssemblyAngularVelocity",v3_0)
+							if osclock()>t then
+								break
+							end
+						end
+					end
+					if newc~=c then
+						return
+					end
+					primarypart=insGet(newc,"PrimaryPart") or hrp
+					if hidedeatheffect and GetCoreGuiEnabled(sg,enumH) then
+						SetCoreGuiEnabled(sg,enumH,false)
+					end
+					if pdloadedtime then
+						if (osclock()<pdloadedtime) then
+							twait(pdloadedtime-osclock())
+						end
+						pdloadedtime=nil
+					end
+					if breakjointsmethod==1 then
+						insGet(newc,"BreakJoints")(newc)
+						local h=FindFirstChildOfClass(newc,"Humanoid")
+						if h then
+							insSet(h,"Health",0)
+						end
+					elseif breakjointsmethod==2 then
+						local h=FindFirstChildOfClass(newc,"Humanoid")
+						if h then
+							insSet(h,"Health",0)
+						else
+							insGet(newc,"BreakJoints")(newc)
+						end
+					else
+						insGet(newc,"BreakJoints")(newc)
+					end
+					Connect(insGet(newc,"DescendantAdded"),ondes)
+					for i,v in next,GetDescendants(newc) do
+						ondes(v)
+					end
+				else
+					local hrp=timegp(newc,"HumanoidRootPart","BasePart",10)
+					if hrp and c and IsDescendantOf(newc,ws) then
+						rootparts[v]=hrp
+					end
+				end
+			end
+		end
+		charcons[v]=Connect(GetPropertyChangedSignal(v,"Character"),oncharacter)
+		oncharacter()
+	end
+	Connect(insGet(plrs,"PlayerRemoving"),function(v)
+		simradv=simradv-1000
+		local charcon=charcons[v]
+		if charcon then
+			Disconnect(charcon)
+		end
+		characters[v]=nil
+		rootparts[v]=nil
+	end)
+	for i,v in next,GetPlayers(plrs) do simradv=simradv+1000 if v~=lp then tspawn(onplayer,v) end end
+	Connect(insGet(plrs,"PlayerAdded"),onplayer)
+	onplayer(lp)
+	local setsimrad=emptyfunction
+	if simrad then
+		setsimrad=function()
+			local canset,_=pcall(function()
+				insSet(lp,"SimulationRadius",simradv)
+			end)
+			if canset then
+				setsimrad=function()
+					insSet(lp,"SimulationRadius",simradv)
+				end
+			else
+				setsimrad=emptyfunction
+			end
+		end
+	end
+
+	local mradN05=-0.008726646259971648
+	local KeyCode=e.KeyCode
+	local enumMB2=e.UserInputType.MouseButton2
+	local enumMLCP=e.MouseBehavior.LockCurrentPosition
+	local enumMLC=(insGet(uis,"TouchEnabled") and enumMLCP) or e.MouseBehavior.LockCenter 
+	local enumMD=e.MouseBehavior.Default
+	local enumMW=e.UserInputType.MouseWheel
+	local enumMM=e.UserInputType.MouseMovement
+
+	local mouseBehavior=nil
+	local lastMouseBehavior=insGet(uis,"MouseBehavior")
+	Connect(GetPropertyChangedSignal(uis,"MouseBehavior"),function()
+		if mouseBehavior and (insGet(uis,"MouseBehavior")~=mouseBehavior) then
+			insSet(uis,"MouseBehavior",mouseBehavior)
+		end
+	end)
+
+	local mode="default"
+	local defaultmode={}
+	local modes={default=defaultmode}
+
+	local lerpsIdle=emptyfunction
+	local lerpsWalk=emptyfunction
+	local lerpsJump=emptyfunction
+	local lerpsFall=emptyfunction
+
+	local addmode=function(key,mode)
+		if (type(key)~="string") or (type(mode)~="table") then
+			return
+		end
+		for i,v in next,mode do
+			if type(v)~="function" then
+				mode[i]=nil
+			end
+		end
+		if key=="default" then
+			defaultmode=mode
+			modes.default=mode
+			lerpsIdle=mode.idle or emptyfunction
+			lerpsWalk=mode.walk or emptyfunction
+			lerpsJump=mode.jump or emptyfunction
+			lerpsFall=mode.fall or emptyfunction
+			if mode.modeEntered then
+				mode.modeEntered()
+			end
+		elseif #key==1 then
+			key=KeyCode[supper(ssub(key,1,1))]
+			modes[key]=mode
+		end
+	end
+
+	local keyW=KeyCode.W
+	local Wpressed=IsKeyDown(uis,keyW)
+	local keyA=KeyCode.A
+	local Apressed=IsKeyDown(uis,keyA)
+	local keyS=KeyCode.S
+	local Spressed=IsKeyDown(uis,keyS)
+	local keyD=KeyCode.D
+	local Dpressed=IsKeyDown(uis,keyD)
+	local keySpace=KeyCode.Space
+	local jumpingInput=IsKeyDown(uis,keySpace)
+
+	local FWmovement=0
+	local RTmovement=0
+	local isWalking=false
+	local refreshKeyboardMovement=function()
+		if Wpressed then if Spressed then if Dpressed then if Apressed then isWalking=false else FWmovement=0 RTmovement=1 isWalking=true end else if Apressed then FWmovement=0 RTmovement=-1 isWalking=true else isWalking=false end end else FWmovement=1 if Dpressed then if Apressed then RTmovement=0 else RTmovement=1 end else if Apressed then RTmovement=-1 else RTmovement=0 end end isWalking=true end else if Spressed then FWmovement=-1 if Dpressed then if Apressed then RTmovement=0 else RTmovement=1 end else if Apressed then RTmovement=-1 else RTmovement=0 end end isWalking=true else if Dpressed then if Apressed then isWalking=false else FWmovement=0 RTmovement=1 isWalking=true end else if Apressed then FWmovement=0 RTmovement=-1 isWalking=true else isWalking=false end end end end
+	end
+	refreshKeyboardMovement()
+
+	local keyShift=KeyCode.LeftShift
+	Connect(insGet(uis,"InputBegan"),function(a)
+		if insGet(gs,"MenuIsOpen") or GetFocusedTextBox(uis) then
+			return
+		end
+		a=insGet(a,"KeyCode")
+		if a==keyW then
+			Wpressed=true
+			refreshKeyboardMovement()
+		elseif a==keyA then
+			Apressed=true
+			refreshKeyboardMovement()
+		elseif a==keyS then
+			Spressed=true
+			refreshKeyboardMovement()
+		elseif a==keyD then
+			Dpressed=true
+			refreshKeyboardMovement()
+		elseif a==keySpace then
+			jumpingInput=true
+		elseif a==keyShift then
+			shiftlock=allowshiftlock and not shiftlock
+		elseif modes[a] then
+			if modes[mode].modeLeft then
+				modes[mode].modeLeft()
+			end
+			if mode==a then
+				mode="default"
+			else
+				mode=a
+			end
+			local modet=modes[mode]
+			lerpsIdle=modet.idle or defaultmode.idle or emptyfunction
+			lerpsWalk=modet.walk or defaultmode.walk or emptyfunction
+			lerpsJump=modet.jump or defaultmode.jump or emptyfunction
+			lerpsFall=modet.fall or defaultmode.fall or emptyfunction
+			if modes[mode].modeEntered then
+				modes[mode].modeEntered()
+			end
+		end
+	end)
+	Connect(insGet(uis,"InputEnded"),function(a)
+		a=insGet(a,"KeyCode")
+		if a==keyW then
+			Wpressed=false
+			refreshKeyboardMovement()
+		elseif a==keyA then
+			Apressed=false
+			refreshKeyboardMovement()
+		elseif a==keyS then
+			Spressed=false
+			refreshKeyboardMovement()
+		elseif a==keyD then
+			Dpressed=false
+			refreshKeyboardMovement()
+		elseif a==keySpace then
+			jumpingInput=false
+		end
+	end)
+
+	local thumbstickEndX=0
+	local thumbstickStartY=0
+
+	local thumbstickSizeMultiplier=0
+
+	local jumpStartX=0
+	local jumpStartY=0
+	local jumpEndX=0
+	local jumpEndY=0
+
+	local thumbstickInputObject=nil
+	local jumpInputObject=nil
+	local cameraRotateInputObject=nil
+	local cameraZoomInputObject=nil
+
+	local thumbstickTouchStart=v3_0
+	local cameraZoomInputMagnitude=0
+
+	Connect(insGet(uis,"TouchStarted"),function(inputObject)
+		if insGet(gs,"MenuIsOpen") or GetFocusedTextBox(uis) then
+			return
+		end
+
+		local touchPos=insGet(inputObject,"Position")
+		local touchX=v3Get(touchPos,"X")
+		local touchY=v3Get(touchPos,"Y")
+
+		if (not thumbstickInputObject) and touchX<thumbstickEndX and touchY>thumbstickStartY then
+			thumbstickInputObject=inputObject
+			thumbstickTouchStart=insGet(inputObject,"Position")
+			isWalking=false
+		elseif (not jumpInputObject) and touchY>jumpStartY and touchX>jumpStartX and touchX<jumpEndX and touchY<jumpEndY then
+			jumpInputObject=inputObject
+			jumpingInput=true
+		elseif not cameraRotateInputObject then
+			cameraRotateInputObject=inputObject
+		else
+			cameraZoomInputObject=inputObject
+			cameraZoomInputMagnitude=v3Get(insGet(cameraRotateInputObject,"Position")-insGet(cameraZoomInputObject,"Position"),"Magnitude")
+		end
+	end)
+	Connect(insGet(uis,"TouchMoved"),function(inputObject)
+		local touchPos=insGet(inputObject,"Position")
+		local touchX=v3Get(touchPos,"X")
+		local touchY=v3Get(touchPos,"Y")
+		if inputObject==thumbstickInputObject then
+			local direction=insGet(inputObject,"Position")-thumbstickTouchStart
+			local directionMag=v3Get(direction,"Magnitude")/thumbstickSizeMultiplier
+			if directionMag>0.05 then
+				isWalking=true
+				direction=v3Get(direction,"Unit")*min(1,(directionMag-0.05)/0.95) 
+				FWmovement=-v3Get(direction,"Y")
+				RTmovement=v3Get(direction,"X")
+			else
+				isWalking=false
+			end
+		elseif inputObject==jumpInputObject then
+			jumpingInput=touchY>jumpStartY and touchX>jumpStartX and touchX<jumpEndX and touchY<jumpEndY
+		else
+			if cameraZoomInputObject then
+				local newMagnitude=v3Get(insGet(cameraRotateInputObject,"Position")-insGet(cameraZoomInputObject,"Position"),"Magnitude")					
+				cammag=cammag+(newMagnitude-cameraZoomInputMagnitude)*0.04*(0.75-cammag/4)
+				cameraZoomInputMagnitude=newMagnitude
+				if cammag<0 then
+					firstperson=false
+				else
+					cammag=0
+					firstperson=true
+				end
+			elseif inputObject==cameraRotateInputObject then
+				local rotation=GetMouseDelta(uis)*mradN05
+				camcfLV=cfGet(cfMul(camrot,angles(rotation.Y,rotation.X,0)),"LookVector")
+				camrot=cfl(v3_0,camcfLV)
+				camcfRV=cfGet(camrot,"RightVector")
+			end
+		end
+	end)
+	Connect(insGet(uis,"TouchEnded"),function(inputObject)
+		if inputObject==thumbstickInputObject then
+			thumbstickInputObject=nil
+			isWalking=false
+		elseif inputObject==jumpInputObject then
+			jumpInputObject=nil
+			jumpingInput=false
+		elseif inputObject==cameraRotateInputObject then
+			cameraRotateInputObject=nil
+			cameraZoomInputObject=nil
+		elseif inputObject==cameraZoomInputObject then
+			cameraZoomInputObject=nil
+		end
+	end)
+
+	local refreshTouchRegions=function()
+		local sX=insGet(mouse,"ViewSizeX")
+		local sY=insGet(mouse,"ViewSizeY")
+		local isSmallScreen=min(sX,sY)<=500
+
+		sY=sY+insGet(gs,"TopbarInset").Height
+
+		thumbstickEndX=sX*0.4
+		thumbstickStartY=(sY+0)*0.333
+
+		if isSmallScreen then
+			thumbstickSizeMultiplier=35
+			jumpStartX=sX-95
+			jumpStartY=sY-90
+			jumpEndX=jumpStartX+70
+			jumpEndY=jumpStartY+70
+		else
+			thumbstickSizeMultiplier=60
+			jumpStartX=sX-170
+			jumpStartY=sY-210
+			jumpEndX=jumpStartX+120
+			jumpEndY=jumpStartY+120
+		end
+	end
+	Connect(GetPropertyChangedSignal(mouse,"ViewSizeX"),refreshTouchRegions)
+	Connect(GetPropertyChangedSignal(mouse,"ViewSizeY"),refreshTouchRegions)
+	Connect(GetPropertyChangedSignal(gs,"TopbarInset"),refreshTouchRegions)
+	refreshTouchRegions()
+
+	local mouseCameraMove=false
+	Connect(insGet(uis,"InputChanged"),function(a,b)
+		if b then return end
+		local inputType=insGet(a,"UserInputType")
+		if mouseCameraMove and inputType==enumMM then
+			local rotation=GetMouseDelta(uis)*mradN05
+			camcfLV=cfGet(cfMul(camrot,angles(rotation.Y,rotation.X,0)),"LookVector")
+			camrot=cfl(v3_0,camcfLV)
+			camcfRV=cfGet(camrot,"RightVector")
+		elseif inputType==enumMW then
+			cammag=cammag+v3Get(insGet(a,"Position"),"Z")*(0.75-cammag/4)
+			if cammag<0 then
+				firstperson=false
+			else
+				cammag=0
+				firstperson=true
+			end
+		end
+	end)
+
+	local predictionfling=function(target)
+		if not c then
+			return false
+		end
+		if typeof(target)~="Instance" then 
+			target=insGet(mouse,"Target")
+			if not target then
+				return false
+			end
+		end
+		if not IsDescendantOf(target,ws) then
+			return false
+		end
+		if IsA(target,"BasePart") or IsA(target,"Humanoid") then 
+			target=insGet(target,"Parent") 
+			if IsA(target,"Accessory") then
+				target=insGet(target,"Parent")
+			end
+		end
+		if (not IsA(target,"Model")) or (target==c) then
+			return false
+		end
+		local targetpart=gp(target,"HumanoidRootPart","BasePart") or gp(target,"Torso","BasePart") or gp(target,"UpperTorso","BasePart")
+		if (not targetpart) or (flingtable[targetpart]~=nil) then
+			return false
+		end
+		if replicatesignal then
+		    replicatesignal(cdsb)
+		end
+		if highlightflingtargets then
+			local h=i("Highlight")
+			insSet(h,"Name",rs())
+			insSet(h,"Adornee",target)
+			insSet(h,"FillColor",c3(1,0,0))
+			insSet(h,"OutlineColor",c3(1,0,0))
+			insSet(h,"FillTransparency",0.5)
+			insSet(h,"OutlineTransparency",0)
+			insSet(h,"Parent",i10)
+			flingtable[targetpart]=h
+		else
+			flingtable[targetpart]=false
+		end
+		return true
+	end
+
+	local clickConnection=nil
+	if ctrlclicktp then
+		ctrlclicktp=KeyCode.LeftControl
+		local tpoff=v3_010*3
+		if clickfling then
+			clickConnection=Connect(insGet(mouse,"Button1Down"),function()
+				if insGet(mouse,"Target") then
+					if IsKeyDown(uis,ctrlclicktp) then
+						pos=cfGet(insGet(mouse,"Hit"),"Position")+tpoff
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						xzvel=v3_0
+						Yvel=0
+					else
+						predictionfling()
+					end
+				end
+			end)
+		else
+			clickConnection=Connect(insGet(mouse,"Button1Down"),function()
+				if insGet(mouse,"Target") and IsKeyDown(uis,ctrlclicktp) then
+					pos=cfGet(insGet(mouse,"Hit"),"Position")+tpoff
+					cfr=cfl(pos,pos+camcfLV*v3_101)
+					xzvel=v3_0
+					Yvel=0
+				end
+			end)
+		end
+	elseif clickfling then
+		clickConnection=Connect(insGet(mouse,"Button1Down"),predictionfling)
+	end
+
+	local hhOff=3
+	local hhOff1=3.01
+	local setHipHeight=function(n)
+		hhOff=n+3
+		hhOff1=n+3.01
+	end
+
+	local noYvelTime=1
+	local lastsine=sine
+	local con=nil
+	local mainFunction=function()
+		if not c then 
+			for i,v in next,cframes do
+				local p=i.v
+				if p then
+					Destroy(p)
+				end
+			end
+			for i,v in next,flingtable do
+				if v then --it could be false
+					Destroy(v)
+				end
+			end
+			for i,v in next,charcons do
+				Disconnect(v)
+			end
+			if clickConnection then
+				Disconnect(clickConnection)
+			end
+			mouseBehavior=nil
+			insSet(uis,"MouseBehavior",enumMD)
+			onnewcamera()
+			local c=insGet(lp,"Character")
+			if c then
+				insSet(cam,"CameraSubject",FindFirstChildOfClass(c,"Humanoid"))
+			end
+			return con and Disconnect(con) 
+		end
+
+		sine=osclock()
+		local delta=sine-lastsine
+		deltaTime=min(delta*10,1)
+		lastsine=sine
+
+		if shiftlock then
+			if allowshiftlock then
+				mouseBehavior=enumMLC
+				mouseCameraMove=true
+			else
+				shiftlock=false
+			end
+		elseif firstperson then
+			mouseBehavior=enumMLC
+			mouseCameraMove=true
+		elseif IsMouseButtonPressed(uis,enumMB2) then
+			mouseBehavior=enumMLCP
+			mouseCameraMove=true
+		else
+			mouseBehavior=enumMD
+			mouseCameraMove=false
+		end
+		if lastMouseBehavior~=mouseBehavior then
+			lastMouseBehavior=mouseBehavior
+			insSet(uis,"MouseBehavior",mouseBehavior)
+		end
+
+		local raycastresult=Raycast(ws,pos,v3_010*(fpdh-v3Get(pos,"Y")),raycastparams)
+		local onground=nil
+		if raycastresult then
+			raycastresult=v3Get(raycastresult.Position,"Y")
+			onground=v3Get(pos,"Y")-raycastresult<hhOff1
+			if onground then
+				Yvel=0
+				pos=pos+v3_010*(raycastresult+hhOff-v3Get(pos,"Y"))*min(delta*20,1)
+				if jumpingInput and (jumpPower>0) then
+					Yvel=jumpPower
+					onground=false
+				end
+			else
+				Yvel=Yvel-gravity*delta
+				if v3Get(pos,"Y")+Yvel*delta<raycastresult then
+					Yvel=0
+					pos=pos+v3_010*(raycastresult+hhOff-v3Get(pos,"Y"))
+				end
+			end
+		else
+			Yvel=0
+			onground=false
+		end
+
+		if firstperson then
+			if isWalking then
+				if walkSpeed==0 then
+					xzvel=v3_0
+					if onground then
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsIdle()
+						noYvelTime=min(noYvelTime+delta*0.3,1)
+						xzvel=xzvel*(1-noYvelTime)
+					elseif Yvel>0 then
+						pos=pos+v3_010*Yvel*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsJump()
+						noYvelTime=0
+					else
+						pos=pos+v3_010*Yvel*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsFall()
+						noYvelTime=0
+					end
+				else
+					xzvel=v3Get(v3Get(camcfLV*v3_101,"Unit")*FWmovement+v3Get(camcfRV*v3_101,"Unit")*RTmovement,"Unit")*walkSpeed
+					if onground then
+						pos=pos+xzvel*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsWalk()
+						noYvelTime=min(noYvelTime+delta*0.3,1)
+						xzvel=xzvel*(1-noYvelTime)
+					elseif Yvel>0 then
+						pos=pos+(xzvel+v3_010*Yvel)*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsJump()
+						noYvelTime=0
+					else 
+						pos=pos+(xzvel+v3_010*Yvel)*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsFall()
+						noYvelTime=0
+					end
+				end
+			else
+				xzvel=v3_0
+				if onground then
+					cfr=cfl(pos,pos+camcfLV*v3_101)
+					camcf=cfAdd(camrot,pos+v3_0150)
+					cframes[rootpart]=cfr
+					insSet(cam,"CFrame",camcf)
+					lerpsIdle()
+					noYvelTime=min(noYvelTime+delta*0.3,1)
+					xzvel=xzvel*(1-noYvelTime)
+				elseif Yvel>0 then
+					pos=pos+v3_010*Yvel*delta
+					cfr=cfl(pos,pos+camcfLV*v3_101)
+					camcf=cfAdd(camrot,pos+v3_0150)
+					cframes[rootpart]=cfr
+					insSet(cam,"CFrame",camcf)
+					lerpsJump()
+					noYvelTime=0
+				else
+					pos=pos+v3_010*Yvel*delta
+					cfr=cfl(pos,pos+camcfLV*v3_101)
+					camcf=cfAdd(camrot,pos+v3_0150)
+					cframes[rootpart]=cfr
+					insSet(cam,"CFrame",camcf)
+					lerpsFall()
+					noYvelTime=0
+				end
+			end
+		elseif shiftlock then	
+			if isWalking then
+				if walkSpeed==0 then
+					xzvel=v3_0
+					if onground then
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfRV*1.75+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsIdle()
+						noYvelTime=min(noYvelTime+delta*0.3,1)
+						xzvel=xzvel*(1-noYvelTime)
+					elseif Yvel>0 then
+						pos=pos+v3_010*Yvel*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfRV*1.75+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsJump()
+						noYvelTime=0
+					else
+						pos=pos+v3_010*Yvel*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfRV*1.75+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsFall()
+						noYvelTime=0
+					end
+				else
+					xzvel=v3Get(v3Get(camcfLV*v3_101,"Unit")*FWmovement+v3Get(camcfRV*v3_101,"Unit")*RTmovement,"Unit")*walkSpeed
+					if onground then
+						pos=pos+xzvel*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfRV*1.75+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsWalk()
+						noYvelTime=min(noYvelTime+delta*0.3,1)
+						xzvel=xzvel*(1-noYvelTime)
+					elseif Yvel>0 then
+						pos=pos+(xzvel+v3_010*Yvel)*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfRV*1.75+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsJump()
+						noYvelTime=0
+					else
+						pos=pos+(xzvel+v3_010*Yvel)*delta
+						cfr=cfl(pos,pos+camcfLV*v3_101)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfRV*1.75+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsFall()
+						noYvelTime=0
+					end
+				end
+			else
+				xzvel=v3_0
+				if onground then
+					cfr=cfl(pos,pos+camcfLV*v3_101)
+					camcf=cfAdd(camrot,pos+v3_0150+camcfRV*1.75+camcfLV*cammag)
+					cframes[rootpart]=cfr
+					insSet(cam,"CFrame",camcf)
+					lerpsIdle()
+					noYvelTime=min(noYvelTime+delta*0.3,1)
+					xzvel=xzvel*(1-noYvelTime)
+				elseif Yvel>0 then
+					pos=pos+v3_010*Yvel*delta
+					cfr=cfl(pos,pos+camcfLV*v3_101)
+					camcf=cfAdd(camrot,pos+v3_0150+camcfRV*1.75+camcfLV*cammag)
+					cframes[rootpart]=cfr
+					insSet(cam,"CFrame",camcf)
+					lerpsJump()
+					noYvelTime=0
+				else
+					pos=pos+v3_010*Yvel*delta
+					cfr=cfl(pos,pos+camcfLV*v3_101)
+					camcf=cfAdd(camrot,pos+v3_0150+camcfRV*1.75+camcfLV*cammag)
+					cframes[rootpart]=cfr
+					insSet(cam,"CFrame",camcf)
+					lerpsFall()
+					noYvelTime=0
+				end
+			end
+		else
+			if isWalking then
+				if walkSpeed==0 then
+					xzvel=v3_0
+					if onground then
+						cfr=cfAdd(cfGet(cfr,"Rotation"),pos)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsIdle()
+						noYvelTime=min(noYvelTime+delta*0.3,1)
+						xzvel=xzvel*(1-noYvelTime)
+					elseif Yvel>0 then
+						pos=pos+v3_010*Yvel*delta
+						cfr=cfAdd(cfGet(cfr,"Rotation"),pos)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsJump()
+						noYvelTime=0
+					else
+						pos=pos+v3_010*Yvel*delta
+						cfr=cfAdd(cfGet(cfr,"Rotation"),pos)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsFall()
+						noYvelTime=0
+					end
+				else
+					xzvel=v3Get(v3Get(camcfLV*v3_101,"Unit")*FWmovement+v3Get(camcfRV*v3_101,"Unit")*RTmovement,"Unit")*walkSpeed
+					if onground then
+						pos=pos+xzvel*delta
+						cfr=cfAdd(Lerp(cfGet(cfr,"Rotation"),cfl(v3_0,xzvel),deltaTime),pos)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsWalk()
+						noYvelTime=min(noYvelTime+delta*0.3,1)
+						xzvel=xzvel*(1-noYvelTime)
+					elseif Yvel>0 then
+						pos=pos+(xzvel+(v3_010*Yvel))*delta
+						cfr=cfAdd(Lerp(cfGet(cfr,"Rotation"),cfl(v3_0,xzvel),deltaTime),pos)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsJump()
+						noYvelTime=0
+					else
+						pos=pos+(xzvel+(v3_010*Yvel))*delta
+						cfr=cfAdd(Lerp(cfGet(cfr,"Rotation"),cfl(v3_0,xzvel),deltaTime),pos)
+						camcf=cfAdd(camrot,pos+v3_0150+camcfLV*cammag)
+						cframes[rootpart]=cfr
+						insSet(cam,"CFrame",camcf)
+						lerpsFall()
+						noYvelTime=0
+					end
+				end
+			else
+				xzvel=v3_0
+				if onground then
+					cfr=cfAdd(cfGet(cfr,"Rotation"),pos)
+					camcf=cfAdd(camrot,pos+v3_0150+camcfLV*cammag)
+					cframes[rootpart]=cfr
+					insSet(cam,"CFrame",camcf)
+					lerpsIdle()
+					noYvelTime=min(noYvelTime+delta*0.3,1)
+					xzvel=xzvel*(1-noYvelTime)
+				elseif Yvel>0 then
+					pos=pos+v3_010*Yvel*delta
+					cfr=cfAdd(cfGet(cfr,"Rotation"),pos)
+					camcf=cfAdd(camrot,pos+v3_0150+camcfLV*cammag)
+					cframes[rootpart]=cfr
+					insSet(cam,"CFrame",camcf)
+					lerpsJump()
+					noYvelTime=0
+				else
+					pos=pos+v3_010*Yvel*delta
+					cfr=cfAdd(cfGet(cfr,"Rotation"),pos)
+					camcf=cfAdd(camrot,pos+v3_0150+camcfLV*cammag)
+					cframes[rootpart]=cfr
+					insSet(cam,"CFrame",camcf)
+					lerpsFall()
+					noYvelTime=0
+				end
+			end
+		end
+
+		refreshjointsI(rootpart)
+		tclear(refreshedjoints)
+
+		local sine15=sine*15
+		local idlerv=v3(sin(sine15),sin(sine15+1.0471975511965976),sin(sine15+2.0943951023931953))
+		local idleoff=idlerv*0.003910064697265625 --0.0156402587890625/4
+
+		local claimpos=insGet(primarypart,"Position")
+		local claimposY=v3Get(claimpos,"Y")
+		for i,v in next,cframes do
+			local part=i.p
+
+			if part then
+				if insGet(part,"ReceiveAge")==0 then
+					local placeholder=i.v
+					local vpos=cfGet(v,"Position")
+					if novoid and (v3Get(vpos,"Y")<novoid) then
+						v=cfAdd(v,v3_010*(novoid-v3Get(vpos,"Y")))
+					end
+					local lastpos=i.l
+					local vel=(vpos-lastpos)/delta
+					local mag=v3Get(vel,"Magnitude")
+					if mag<0.11730194091796875 then --0.0156402587890625*15/2
+						if placeholder and i.b then
+							insSet(placeholder,"Parent",nil)
+							i.b=false
+						end
+						i.l=cfGet(v,"Position")
+						v=cfAdd(v,idleoff)
+					elseif mag>speedlimit then
+						if placeholder then
+							insSet(placeholder,"CFrame",v)
+							if not i.b then
+								insSet(placeholder,"Parent",ws)
+								i.b=true
+							end
+						end
+						vel=v3Get(vel,"Unit")*speedlimit
+						local newpos=lastpos+vel*delta
+						v=cfAdd(cfGet(v,"Rotation"),newpos)
+						i.l=newpos
+					else
+						if placeholder and i.b then
+							insSet(placeholder,"Parent",nil)
+							i.b=false
+						end
+						i.l=cfGet(v,"Position")
+					end
+					local claimtime=i.c
+					if claimtime then
+						if sine-claimtime<retVelTime then
+							local Ydiff=cfGet(v,"Y")-claimposY
+							local velY=25.01
+							local fallingTime=0
+							while (Ydiff>0) or (velY>0) do
+								fallingTime=fallingTime+0.025
+								if fallingTime>0.6 then
+									break
+								end
+								velY=velY-velYdelta
+								Ydiff=Ydiff+(velY*0.025)
+							end
+							insSet(part,"AssemblyLinearVelocity",(claimpos-cfGet(v,"Position"))*v3_101/fallingTime+v3_net)
+						else
+							local vel1=vel*noYvelTime+xzvel
+							if v3Get(vel1,"Magnitude")>25.01 then
+								insSet(part,"AssemblyLinearVelocity",v3Get(vel1,"Unit")*v3_xzL+v3_net)
+							else
+								insSet(part,"AssemblyLinearVelocity",vel1*v3_xz+v3_net)
+							end
+						end
+					else
+						i.c=sine
+						local vel1=vel*noYvelTime+xzvel
+						if v3Get(vel1,"Magnitude")>25.01 then
+							insSet(part,"AssemblyLinearVelocity",v3Get(vel1,"Unit")*v3_xzL+v3_net)
+						else
+							insSet(part,"AssemblyLinearVelocity",vel1*v3_xz+v3_net)
+						end
+					end
+					insSet(part,"CFrame",v)
+					insSet(part,"AssemblyAngularVelocity",idlerv)
+				else
+					i.c=nil
+					i.l=insGet(part,"Position")
+					local placeholder=i.v
+					if placeholder then
+						insSet(placeholder,"CFrame",v)
+						if not i.b then
+							insSet(placeholder,"Parent",ws)
+							i.b=true
+						end
+					end
+				end
+			else
+				local placeholder=i.v
+				if placeholder then
+					insSet(placeholder,"CFrame",v)
+					if not i.b then
+						insSet(placeholder,"Parent",ws)
+						i.b=true
+					end
+				end
+			end
+		end
+		setsimrad()
+	end
+
+	sine=osclock()
+	lastsine=sine
+	con=Connect(heartbeat,mainFunction)
+	mainFunction()
+
+	local refreshjoints=function(v) --use this on the main part if u have parts that
+		refreshjointsI(v) --are connected with each other but arent connected to rootpart
+		tclear(refreshedjoints)
+	end
+
+	local legcfR=cf(1,-1,0)
+	local legcfL=cf(-1,-1,0)
+	local raydir=v3_010*-2
+	local raycastlegs=function() --this returns 2 values: right leg raycast offset, left leg raycast offset
+		local rY=Raycast(ws,cfGet(cfMul(cfr,legcfR),"Position"),raydir,raycastparams)
+		local lY=Raycast(ws,cfGet(cfMul(cfr,legcfL),"Position"),raydir,raycastparams)
+		if rY then
+			if lY then
+				return v3Get(rY.Position,"Y")-(v3Get(pos,"Y")-3),v3Get(lY.Position,"Y")-(v3Get(pos,"Y")-3)
+			else
+				return v3Get(rY.Position,"Y")-(v3Get(pos,"Y")-3),0
+			end
+		elseif lY then
+			return 0,v3Get(lY.Position,"Y")-(v3Get(pos,"Y")-3)
+		else
+			return 0,0
+		end
+	end
+
+	local velbycfrvec=function() --this returns 2 values: forward/backwards movement (from -1 to 1), right/left movement (from -1 to 1)
+		local fw=cfGet(cfr,"LookVector")*xzvel/walkSpeed
+		local rt=cfGet(cfr,"RightVector")*xzvel/walkSpeed
+		return v3Get(fw,"X")+v3Get(fw,"Z"),v3Get(rt,"X")+v3Get(rt,"Z")
+	end
+
+	local lastvel=v3_0
+	local velchg1=v3_0
+	local velchgbycfrvec=function() --this returns 2 values: forward/backwards velocity change, right/left velocity change
+		velchg1=velchg1+(lastvel-xzvel) --i recommend setting velchg1 to v3_0 when u start using this function or it will look worse
+		lastvel=xzvel
+		velchg1=velchg1-velchg1*(deltaTime/2)
+		local fw=cfGet(cfr,"LookVector")*velchg1/32
+		local rt=cfGet(cfr,"RightVector")*velchg1/32
+		return v3Get(fw,"X")+v3Get(fw,"Z"),v3Get(rt,"X")+v3Get(rt,"Z")
+	end
+
+	local lastYvel=0
+	local velYchg1=0
+	local velYchg=function() --this returns Y axis velocity change
+		velYchg1=clamp(velYchg1+(lastYvel-Yvel),-50,50) --i recommend setting velYchg1 to 0 when u start using this function or it will look worse
+		lastYvel=Yvel
+		velYchg1=velYchg1-velYchg1*(deltaTime/2)
+		return velYchg1
+	end
+
+	local rotToMouse=function(alpha) --this rotates ur character towards your mouse hit position
+		local pos1=pos*v3_010+cfGet(insGet(mouse,"Hit"),"Position")*v3_101
+		if pos~=pos1 then --could make nan rotation
+			cfr=Lerp(cfr,cfl(pos,pos1),alpha or deltaTime)
+		end
+	end
+
+	local glitchJoint=function(joint,targetGlitchTime,delayFrom,delayTo,radiansFrom,radiansTo) 
+		if sine>targetGlitchTime then --example usage: local glitchtime=0 addMode("x",{idle=function() glitchtime=glitchJoint(joint,glitchtime,0.2,0.4,-0.1,0.1) end})
+			radiansFrom=radiansFrom*100
+			radiansTo=radiansTo*100
+			joint.C0=cfMul(joint.C0,angles(mrandom(radiansFrom,radiansTo)/100,mrandom(radiansFrom,radiansTo)/100,mrandom(radiansFrom,radiansTo)/100)) 
+			return sine+mrandom(delayFrom*100,delayTo*100)/100
+		end
+		return targetGlitchTime
+	end
+
+	local setWalkSpeed=function(n)
+		if type(n)~="number" then
+			n=16
+		end
+		walkSpeed=n
+	end
+	local setJumpPower=function(n)
+		if type(n)~="number" then
+			n=50
+		end
+		jumpPower=n
+	end
+	local setGravity=function(n)
+		if type(n)~="number" then
+			n=196.2
+		end
+		gravity=n
+	end
+	local setCfr=function(v) --sets character cframe
+		if typeof(v)=="CFrame" then
+			local newpos=cfGet(v,"Position")
+			camcf=cfAdd(camcf,newpos-pos)
+			insSet(cam,"CFrame",camcf)
+			cfr=v
+			pos=newpos
+		elseif typeof(v)=="Vector3" then
+			camcf=cfAdd(camcf,v-pos)
+			insSet(cam,"CFrame",camcf)
+			cfr=cfAdd(cfGet(cfr,"Rotation"),v)
+			pos=v
+		end
+	end
+	local getVel=function() --returns character velocity
+		return xzvel+v3_010*Yvel --important: use only in lerps or it might not work
+	end
+	local getCamCF=function() --returns camera cframe
+		return camcf
+	end
+	local isFirstPerson=function() --returns true if user is in first person camera mode
+		return firstperson
+	end
+
+	return {
+		cframes=cframes,
+		joints=joints,
+		fling=predictionfling,
+		predictionfling=predictionfling,
+		refreshjoints=refreshjoints,
+		raycastlegs=raycastlegs,
+		velbycfrvec=velbycfrvec,
+		velchgbycfrvec=velchgbycfrvec,
+		velYchg=velYchg,
+		addmode=addmode,
+		getPart=getPart,
+		getPartFromMesh=getPartFromMesh,
+		getAccWeldFromMesh=getAccWeldFromMesh,
+		getJoint=getJoint,
+		getPartJoint=getPartJoint,
+		rotToMouse=rotToMouse,
+		glitchJoint=glitchJoint,
+		setWalkSpeed=setWalkSpeed,
+		setJumpPower=setJumpPower,
+		setGravity=setGravity,
+		setCfr=setCfr,
+		getVel=getVel,
+		getCamCF=getCamCF,
+		isFirstPerson=isFirstPerson,
+		setHipHeight=setHipHeight
+	}
+end
+
+btn("SCP 096", function()
+	local t=reanimate()
+	if type(t)~="table" then return end
+	local raycastlegs=t.raycastlegs
+	local velbycfrvec=t.velbycfrvec
+	local addmode=t.addmode
+	local getJoint=t.getJoint
+    local getPartFromMesh=t.getPartFromMesh
+    local getPartJoint=t.getPartJoint
+	local velYchg=t.velYchg
+	local setWalkSpeed=t.setWalkSpeed
+	local RootJoint=getJoint("RootJoint")
+	local RightShoulder=getJoint("Right Shoulder")
+	local LeftShoulder=getJoint("Left Shoulder")
+	local RightHip=getJoint("Right Hip")
+	local LeftHip=getJoint("Left Hip")
+	local Neck=getJoint("Neck")
+    local downtorso = getPartFromMesh(1829131265,1829125781)
+    local downtorsoweld = getPartJoint(downtorso)
+    local rightbackpackleg = getPartFromMesh(686793422,6900595602)
+    local rightbackpacklegweld = getPartJoint(rightbackpackleg)
+    local leftbackpackleg = getPartFromMesh(3302560140,3302560467)
+    local leftbackpacklegweld = getPartJoint(leftbackpackleg)
+    local righttopfedoraleg = getPartFromMesh(3030546036,4622077774)
+    local righttopfedoralegweld = getPartJoint(righttopfedoraleg)
+
+	addmode("default", {
+		idle = function()
+			local rY, lY = raycastlegs()
+
+			local Ychg=velYchg()/20
+
+
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0,-1.5),angles(-1.3962634015954636,-2.443460952792061,-2.443460952792061)),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-0.6,0.2,-2),angles(0.4363323129985824-0.017453292519943295*sin(sine*5),3.141592653589793,0.17453292519943295)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,-1,0),angles(-1.7453292519943295+0.017453292519943295*sin(sine*5),0,3.141592653589793)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.9198621771937625,0,3.141592653589793)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0,-1.5),angles(-1.3962634015954636,2.443460952792061,2.443460952792061)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(0.6,0.2,-2),angles(0.4363323129985824-0.017453292519943295*sin(sine*5),3.141592653589793,-0.17453292519943295)),deltaTime) 
+
+end,
+		walk = function()
+			local Vfw, Vrt = velbycfrvec()
+
+			local rY, lY = raycastlegs()
+
+			local Ychg=velYchg()/20
+
+
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,-1,-1.5),angles(0.17453292519943295,1.5707963267948966,0.3490658503988659+0.017453292519943295*sin(sine*5))),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,2+0.05*sin(sine*5),0),angles(-1.7453292519943295,0,3.141592653589793)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1+0.1*sin(sine*1),0),angles(-2.443460952792061,0,3.141592653589793)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-3,1 * sin(sine*5)),angles(0,1.5707963267948966,-0.2617993877991494*sin(sine*5))),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,-1,-1.5),angles(0.17453292519943295,-1.5707963267948966,-0.3490658503988659+0.017453292519943295*sin(sine*5))),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-3,-1 * sin(sine*5)),angles(0,-1.5707963267948966,-0.2617993877991494*sin(sine*5))),deltaTime) 
+end,
+		jump = function()
+			velYchg()
+			local Vfw, Vrt = velbycfrvec()
+
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,-1,-1.5),angles(0.17453292519943295,1.5707963267948966,0.3490658503988659+0.017453292519943295*sin(sine*5))),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,2+0.05*sin(sine*5),0),angles(-1.7453292519943295,0,3.141592653589793)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1+0.1*sin(sine*1),0),angles(-2.443460952792061,0,3.141592653589793)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-3,1 * sin(sine*5)),angles(0,1.5707963267948966,-0.2617993877991494*sin(sine*5))),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,-1,-1.5),angles(0.17453292519943295,-1.5707963267948966,-0.3490658503988659+0.017453292519943295*sin(sine*5))),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-3,-1 * sin(sine*5)),angles(0,-1.5707963267948966,-0.2617993877991494*sin(sine*5))),deltaTime) 
+end,
+		fall = function()
+			velYchg()
+			local Vfw, Vrt = velbycfrvec()
+
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,-1,-1.5),angles(0.17453292519943295,1.5707963267948966,0.3490658503988659+0.017453292519943295*sin(sine*5))),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,2+0.05*sin(sine*5),0),angles(-1.7453292519943295,0,3.141592653589793)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1+0.1*sin(sine*1),0),angles(-2.443460952792061,0,3.141592653589793)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-3,1 * sin(sine*5)),angles(0,1.5707963267948966,-0.2617993877991494*sin(sine*5))),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,-1,-1.5),angles(0.17453292519943295,-1.5707963267948966,-0.3490658503988659+0.017453292519943295*sin(sine*5))),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-3,-1 * sin(sine*5)),angles(0,-1.5707963267948966,-0.2617993877991494*sin(sine*5))),deltaTime) 
+end
+	})
+
+	addmode("q", {
+		idle = function()
+			velYchg()
+
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,0.05 * sin(sine*5),0),angles(-2.2689280275926285,0,3.141592653589793+0.17453292519943295*sin(sine*5))),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1.5,1,-3+2*sin(sine*5)),angles(1.5707963267948966,3.141592653589793+0.7853981633974483*sin(sine*5),-0.7853981633974483*sin(sine*5))),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1+0.1*sin(sine*10),0),angles(-1.5707963267948966+0.17453292519943295*sin(sine*10),0,3.141592653589793)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1.5,-3-0.05*sin(sine*5),0),angles(-0.6981317007977318-0.17453292519943295*sin(sine*5),1.3962634015954636,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1.5,1,-3-2*sin(sine*5)),angles(1.5707963267948966,3.141592653589793+0.7853981633974483*sin(sine*5),-0.7853981633974483*sin(sine*5))),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1.5,-3-0.05*sin(sine*5),0),angles(-0.6981317007977318+0.17453292519943295*sin(sine*5),-1.3962634015954636,0)),deltaTime) end
+	})
+	addmode("e", {
+		idle = function()
+			velYchg()
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-3,3 * sin(sine*3)),angles(-1.5707963267948966*sin(sine*3),-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,1.5+0.1*sin(sine*10),0),angles(-0.5235987755982988,2.9670597283903604,2.6179938779914944)),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,1.5+0.1*sin(sine*10),0),angles(-0.5235987755982988,-2.9670597283903604,-2.6179938779914944)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,2,0),angles(-1.5707963267948966+1.5707963267948966*sin(sine*3),0,3.141592653589793+0.2617993877991494*sin(sine*3))),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-3,3 * sin(sine*3)),angles(-1.5707963267948966*sin(sine*3),1.5707963267948966,0)),deltaTime) end
+	})
+	addmode("r", {
+		idle = function()
+			local Ychg=velYchg()/20
+
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1+0.1*sin(sine*10),0),angles(-1.5707963267948966+0.3490658503988659*sin(sine*10),0,3.141592653589793)),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1.5,1,-3+4*sin(sine*10)),angles(2.6179938779914944+0.17453292519943295*sin(sine*10),3.141592653589793+0.17453292519943295*sin(sine*10),0.17453292519943295*sin(sine*10))),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1.5,-3.5+1*sin(sine*10),-1+1*sin(sine*10)),angles(-0.6981317007977318,1.3962634015954636,0)),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1.5,-3.5+1*sin(sine*10),-1+1*sin(sine*10)),angles(-0.6981317007977318,-1.3962634015954636,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,1+0.05*sin(sine*5),0),angles(-2.2689280275926285+0.3490658503988659*sin(sine*10),0,3.141592653589793+0.08726646259971647*sin(sine*10))),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1.5,1,-3+4*sin(sine*10)),angles(2.6179938779914944-0.17453292519943295*sin(sine*10),3.141592653589793-0.17453292519943295*sin(sine*10),-0.17453292519943295*sin(sine*10))),deltaTime) end
+	})
+	addmode("t", {
+		modeEntered = function()
+			setWalkSpeed(35)
+		end,
+		idle = function()
+			velYchg()
+
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,2,0),angles(-2.0943951023931953,0,3.141592653589793)),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-3,0),angles(0,-1.5707963267948966,0.5235987755982988)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-3,0),angles(0,1.5707963267948966,-0.5235987755982988)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.2217304763960306,0,3.141592653589793)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,1.5,-2.5),angles(0,1.3962634015954636,2.2689280275926285)),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,1.5,-2.5),angles(0,-1.3962634015954636,-2.2689280275926285)),deltaTime) end,
+		walk = function()
+			velYchg()
+			local Vfw, Vrt = velbycfrvec()
+
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,2,0),angles(-2.0943951023931953,0,3.141592653589793)),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-3,0),angles(0,-1.5707963267948966,0.5235987755982988)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-3,0),angles(0,1.5707963267948966,-0.5235987755982988)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.2217304763960306,0,3.141592653589793)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,1.5,-2.5),angles(0,1.3962634015954636,2.2689280275926285)),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,1.5,-2.5),angles(0,-1.3962634015954636,-2.2689280275926285)),deltaTime) end,
+		modeLeft = function()
+			setWalkSpeed(25)
+		end,
+	})
+	addmode("y", {
+		idle = function()
+			local Ychg=velYchg()/20
+
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0.1 * sin((sine+5)*50),1+0.1*sin(sine*50),0),angles(-1.0471975511965976,0,3.141592653589793)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(3+0.1*sin((sine+5)*50),0.5+0.1*sin(sine*50),-0.5),angles(1.7453292519943295,3.141592653589793,-0.8726646259971648)),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1-0.1*sin(sine*100),-3-0.1*sin(sine*100),0),angles(-0.17453292519943295,-1.3962634015954636,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1-0.1*sin(sine*100),-3-0.1*sin(sine*100),0),angles(-0.17453292519943295,1.3962634015954636,0)),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-3+0.1*sin((sine+5)*50),0.5+0.1*sin(sine*50),-0.5),angles(1.7453292519943295,3.141592653589793,0.8726646259971648)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0.1 * sin((sine+1)*50),2+0.1*sin(sine*100),0),angles(-1.3962634015954636,0,3.141592653589793)),deltaTime) end
+	})
+	addmode("u", {
+		idle = function()
+			velYchg()
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) end
+	})
+	addmode("i", {
+		idle = function()
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) end,
+	})
+	addmode("c", {
+		idle = function()
+			local Ychg=velYchg()/20
+			local rY, lY = raycastlegs()
+
+
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(0.6,0.2,-2),angles(0.4363323129985824-0.017453292519943295*sin(sine*5),3.141592653589793,-0.17453292519943295)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1.2,1,0),angles(0,2.9670597283903604,2.0943951023931953)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,-1,0),angles(-1.7453292519943295+0.017453292519943295*sin(sine*5),0,3.141592653589793)),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-0.6,0.2,-2),angles(0.4363323129985824-0.017453292519943295*sin(sine*5),3.141592653589793,0.17453292519943295)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-2.2689280275926285,0,3.141592653589793)),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1.2,1,0),angles(0,-2.9670597283903604,-2.0943951023931953)),deltaTime) end,
+		walk = function()
+			local Ychg=velYchg()/20
+			local Vfw, Vrt = velbycfrvec()
+
+			local rY, lY = raycastlegs()
+
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) end
+	})
+	addmode("p", {
+		idle = function()
+			local Ychg=velYchg()/20
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) end
+	})
+	addmode("f", {
+		modeEntered = function()
+			setWalkSpeed(35)
+		end,
+		idle = function()
+			velYchg()
+
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(0.6,0.2,-2),angles(0.4363323129985824-0.017453292519943295*sin(sine*5),3.141592653589793,-0.17453292519943295)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1.2,1,0),angles(0,2.9670597283903604,2.0943951023931953)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,-1,0),angles(-1.7453292519943295+0.017453292519943295*sin(sine*5),0,3.141592653589793)),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-0.6,0.2,-2),angles(0.4363323129985824-0.017453292519943295*sin(sine*5),3.141592653589793,0.17453292519943295)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-2.2689280275926285,0,3.141592653589793)),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1.2,1,0),angles(0,-2.9670597283903604,-2.0943951023931953)),deltaTime) end,
+		walk = function()
+			velYchg()
+			local Vfw, Vrt = velbycfrvec()
+
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1.2,-2.5+0.5*sin((sine+1)*10),3 * sin(sine*10)),angles(0,1.5707963267948966,-0.8726646259971648*sin(sine*10))),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1.5,1-0.2*sin(sine*25),-3),angles(1.7453292519943295+0.17453292519943295*sin(sine*25),-1.2217304763960306,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.3962634015954636,0,3.141592653589793)),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1.2,-2.5+0.5*sin((sine+1)*-10),-3 * sin(sine*10)),angles(0,-1.5707963267948966,-0.8726646259971648*sin(sine*10))),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,cfMul(cf(0,1.5+0.2*sin(sine*25),0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1.5,1-0.2*sin(sine*25),-3),angles(1.7453292519943295+0.17453292519943295*sin(sine*25),1.2217304763960306,0)),deltaTime) end,
+		modeLeft = function()
+			setWalkSpeed(25)
+		end,
+	})
+	addmode("g", {
+		idle = function()
+			local Ychg=velYchg()/20
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) end
+	})
+	addmode("h", {
+		idle = function()
+			local Ychg=velYchg()/20
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) end
+	})
+	addmode("j", {
+		idle = function()
+			local Ychg=velYchg()/20
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) end
+	})
+	addmode("k", {
+		idle = function()
+			local Ychg=velYchg()/20
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) end
+	})
+	local function idleL()
+		local Ychg=velYchg()/20
+
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(-1,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(1,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(1,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-1,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) end
+	addmode("l", {
+		modeEntered = function()
+			setWalkSpeed(10)
+		end,
+		idle = idleL,
+		walk = idleL,
+		modeLeft = function()
+			setWalkSpeed(16)
+		end
+	})
+end)
+btn("empty reanimate (no animations)", reanimate)
+insSet(btn("stop current script",stopreanimate),"TextColor3",c3(0.75,0,0))
+
+local swtc=function(txt,options,onchanged)
+	local current=0
+	local swtcbtn=nil
+	local btnpressed=function()
+		current=current+1
+		if current>#options then
+			current=1
+		end
+		local option=options[current]
+		insSet(swtcbtn,"Text",txt..": "..option.text)
+		onchanged(option.value)
+	end
+	swtcbtn=btn("change",btnpressed)
+	btnpressed()
+	return swtcbtn
+end
+
+swtc("client sided placeholders",{
+	{value=true,text="yes"},
+	{value=false,text="no"}
+},function(v)
+	placeholders=v
+end)
+
+swtc("highlight fling targets",{
+	{value=true,text="yes"},
+	{value=false,text="no"}
+},function(v)
+	highlightflingtargets=v
+end)
+
+swtc("allow shiftlock",{
+	{value=true,text="yes"},
+	{value=false,text="no"}
+},function(v)
+	allowshiftlock=v
+end)
+
+swtc("ctrl click tp",{
+	{value=true,text="yes"},
+	{value=false,text="no"}
+},function(v)
+	ctrltp=v
+end)
+
+swtc("click fling",{
+	{value=true,text="yes"},
+	{value=false,text="no"}
+},function(v)
+	clickfling=v
+end)
+
+swtc("fling enhancements",{
+	{value=3,text="all"},
+	{value=1,text="changestate physics"},
+	{value=2,text="disable sitting"},
+	{value=0,text="none"},
+},function(v)
+	flingchangestate=v
+end)
+
+swtc("respawn tp",{
+	{value=3,text="hide body"},
+	{value=0,text="stay at spawn"},
+	{value=1,text="random tp close"},
+	{value=2,text="behind char"}
+},function(v)
+	respawntp=v
+end)
+
+swtc("breakjoints",{
+	{value=1,text="breakjoints+health"},
+	{value=2,text="health or breakjoints"},
+	{value=3,text="breakjoints"}
+},function(v)
+	breakjointsmethod=v
+end)
+
+swtc("coregui death effect",{
+	{value=true,text="disable"},
+	{value=false,text="dont modify"},
+},function(v)
+	hidedeatheffect=v
+end)
+
+swtc("set simulation radius",{
+	{value=true,text="yes"},
+	{value=false,text="no"},
+},function(v)
+	simrad=v
+end)
+
+if replicatesignal then
+	local i11=i("Frame")
+	local i12=i("UIListLayout")
+	local i13=i("Frame")
+	local i14=i("UIListLayout")
+
+	insSet(i11,"Name",rs())
+	insSet(i11,"AnchorPoint",v2(0.5,0.5))
+	insSet(i11,"AutomaticSize",e.AutomaticSize.XY)
+	insSet(i11,"BackgroundTransparency",1)
+	insSet(i11,"Position",u2(0.5,0,0.5,0))
+	insSet(i11,"Size",u2(1,0,0,0))
+	insSet(i12,"Name",rs())
+	insSet(i12,"SortOrder",e.SortOrder.LayoutOrder)
+	insSet(i12,"Parent",i11)
+	insSet(i13,"Name",rs())
+	insSet(i13,"AutomaticSize",e.AutomaticSize.Y)
+	insSet(i13,"BackgroundTransparency",1)
+	insSet(i13,"Size",u2(0.5,0,0,0))
+	insSet(i14,"Name",rs())
+	insSet(i14,"FillDirection",e.FillDirection.Horizontal)
+	insSet(i14,"SortOrder",e.SortOrder.LayoutOrder)
+	insSet(i14,"Parent",i13)
+
+	local s=i4
+	i4=i11
+	lbl("Use permadeath?")
+	lbl("(detectable with no false positives)")
+	lbl("This executor supports permadeath.")
+	lbl("permadeath preload method")
+	insSet(i13,"Parent",i11)
+	i4=i13
+	btn("No",function()
+		replicatesignal=nil
+		Destroy(i11)
+		lbl("permadeath disabled")
+		insSet(i4,"Parent",i3)
+		pdloadedtime=nil
+	end)
+	btn("Yes",function()
+		Destroy(i11)
+		lbl("permadeath enabled")
+		insSet(i4,"Parent",i3)
+		replicatesignal(cdsb)
+		pdloadedtime=osclock()+rst
+		local lastc=nil
+		local hdied=function()
+			if not c then
+				replicatesignal(cdsb)
+				pdloadedtime=osclock()+rst
+			end
+		end
+		Connect(GetPropertyChangedSignal(lp,"Character"),function()
+			local c=lp.Character
+			if c and c~=lastc then
+				lastc=c
+				replicatesignal(cdsb)
+				pdloadedtime=osclock()+rst
+				while lastc==c do
+					local h=FindFirstChildOfClass(c,"Humanoid")
+					if h then
+						Connect(insGet(h,"Died"),hdied)
+						break
+					end
+					Wait(preanimation)
+				end
+			end
+		end)
+	end)
+	i4=s
+
+	insSet(i11,"Parent",i3)
+	insSet(i4,"Parent",nil)
+else
+	lbl("permadeath unsupported")
+end
+
+if not pcall(insSet,i10,"Parent",FindFirstChildOfClass(game,"CoreGui")) then
+	insSet(i7,"Text","PLAYERGUI MODE")
+	insSet(i10,"Parent",pg)
+	twait(3)
+	insSet(i7,"Text",guiTheme.guiTitle)
+end
